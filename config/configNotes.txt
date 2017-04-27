@@ -1,0 +1,60 @@
+/*
+--PAGE ORGANIZATION--
+There are a number of blank pages that can be used to insert additional content
+
+I = Points
+II = Icons
+III = Choropleth
+IV = Proportional symbols
+
+A = Quant Pop-ups
+B = Qual Pop-ups
+
+1 = Satellite Basemap
+2 = Simple Basemap
+
++ = Oakland (otherwise, Syria)
+
+PAGES
+INTRO
+1 IRB
+2	OVERVIEW/ELIGIBILITY
+3 OAKLAND STORY
+4 SYRIA STORY
+5-9
+
+POINTS		ICONS			CHOROPLETH	PROP
+10 IA1+		15 IIA1		20 IIIA1+		25 IVA1
+11 IA2+		16 IIA2		21 IIIA2+		26 IVA2
+12 IB1		17 IIB1+	22 IIIB1		27 IVB1+
+13 IB2		18 IIB2+	23 IIIB2		28 IVB2+
+14				19				24					29
+
+SURVEYS
+30 Syria PANAS		  35 OAK PANAS
+31 Syria Survey 		36 OAK Survey
+32            			37
+33									38
+34									39
+
+MAP COMBO PREFERENCES
+40-49
+
+EXIT SURVEY
+50 Background
+51 Familiarity
+52 Interest
+53 Thanks
+
+*/
+
+Group1: I A1+(10,35,36) B2(13,30,31)
+Group2: I B1(12,30,31) A2+(11,35,36)
+Group3: II B2+(18,35,36) A1(15,30,31)
+Group4: II A2(16,30,31) B1+(17,35,36)
+Group5: III A1+(20,35,36) B2(23,30,31)
+Group6: III B1(22,30,31) A2+(21,35,36)
+Group7: IV B2+(28,35,36) A1(25,30,31)
+Group8: IV A2(26,30,31) B1+(27,35,36)
+
+//all pages with content in order

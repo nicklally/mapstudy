@@ -1,0 +1,16 @@
+[
+	{
+		"sectionId": "header",
+		"cssAttributes": {
+			"background-color": "#e0d7de"
+		},
+		"content": "Mapping People: Using MapStudy to Understand Interactive Maps and the Symbolization of People"
+	},
+	{
+		"sectionId": "footer",
+		"cssAttributes": {
+			"background-color": "#d6ced6"
+		},
+		"content": ""
+	}
+]

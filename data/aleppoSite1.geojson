@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "SiteNumber": "Site 1" }, "geometry": { "type": "Point", "coordinates": [ 37.185015002903526, 36.208673618913821 ] } }
+]
+}
