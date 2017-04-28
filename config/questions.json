@@ -185,10 +185,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Oakland"
+              "title": "Oakland Case Study"
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -213,7 +213,9 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
               "ask": "Site 1",
               "input": {
                 "required": false,
@@ -364,11 +366,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Oakland",
-              "ask": "Scenario description"
+              "title": "Oakland Case Study"
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -393,7 +394,9 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
               "ask": "Site 1",
               "input": {
                 "required": false,
@@ -544,11 +547,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Syria",
+              "title": "Aleppo Case Study",
               "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -724,11 +726,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Syria",
+              "title": "Aleppo Case Study",
               "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -4749,9 +4750,10 @@
         {
           "blocks": [
             {
-              "title": "Map Preference Survey",
+              "title": "Part 3: Map Preference Survey",
               "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
               "input": {
+                "required": false,
                 "type": "rank",
                 "items": [
                   {
@@ -4789,9 +4791,10 @@
         {
           "blocks": [
             {
-              "title": "Map Preference Survey",
+              "title": "Part 3: Map Preference Survey",
               "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
               "input": {
+                "required": false,
                 "type": "rank",
                 "items": [
                   {
@@ -4826,9 +4829,10 @@
         {
           "blocks": [
             {
-              "title": "Map Preference Survey",
+              "title": "Part 3: Map Preference Survey",
               "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
               "input": {
+                "required": false,
                 "type": "rank",
                 "items": [
                   {
@@ -4863,9 +4867,10 @@
         {
           "blocks": [
             {
-              "title": "Map Preference Survey",
+              "title": "Part 3: Map Preference Survey",
               "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
               "input": {
+                "required": false,
                 "type": "rank",
                 "items": [
                   {
@@ -4900,33 +4905,99 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Part 3: Map Preference Survey",
+              "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
+              "input": {
+                "required": false,
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  },
+                  {
+                    "text": "Map 5"
+                  },
+                  {
+                    "text": "Map 6"
+                  },
+                  {
+                    "text": "Map 7"
+                  },
+                  {
+                    "text": "Map 8"
+                  }
+                ]
+              }
+            },
+            {
+              "image": "img/Map_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]
     },
-    {
+     {
       "page": 45,
       "fullpage": true,
       "sets": [
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Part 3: Map Preference Survey",
+              "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
+              "input": {
+                "required": false,
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  },
+                  {
+                    "text": "Map 5"
+                  },
+                  {
+                    "text": "Map 6"
+                  },
+                  {
+                    "text": "Map 7"
+                  },
+                  {
+                    "text": "Map 8"
+                  }
+                ]
+              }
+            },
+            {
+              "image": "img/Map_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]
@@ -4938,14 +5009,29 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Part 3: Map Preference Survey",
+              "ask": "Which base map do you prefer?",
+              "input": {
+                "required": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  }
+                ]
+              }
+            },
+            {
+              "image": "img/BaseMap_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]

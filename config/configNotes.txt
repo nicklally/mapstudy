@@ -38,13 +38,13 @@ SURVEYS
 34								39
 
 MAP COMBO PREFERENCES
-40 Point preference
-41 Point relatability
-42 Aggregated preference
-43 Aggregated relatability
-44
-45
-46
+40 Point preference (4 maps)
+41 Point relatability (4 maps)
+42 Aggregated preference (4 maps)
+43 Aggregated relatability (4 maps)
+44 Map preference (all 8 maps)
+45 Map relatability (all 8 maps)
+46 Base map preference (2 maps)
 47
 48
 49
