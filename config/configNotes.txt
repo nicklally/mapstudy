@@ -31,11 +31,11 @@ POINTS		ICONS			CHOROPLETH	PROP
 14				19				24					29
 
 SURVEYS
-30 Syria PANAS		  35 OAK PANAS
-31 Syria Survey 		36 OAK Survey
-32            			37
-33									38
-34									39
+30 Syria PANAS		  			35 OAK PANAS
+31 Syria Survey 				36 OAK Survey
+32 Syria Interaction Survey     37 OAK Interaction Survey
+33								38
+34								39
 
 MAP COMBO PREFERENCES
 40-49
