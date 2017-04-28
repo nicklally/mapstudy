@@ -213,13 +213,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -397,13 +390,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -587,13 +573,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -771,13 +750,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -965,13 +937,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -1149,13 +1114,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -1339,13 +1297,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -1523,13 +1474,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -1717,13 +1661,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -1901,13 +1838,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -2091,13 +2021,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -2275,13 +2198,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -2469,13 +2385,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -2653,13 +2562,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -2843,13 +2745,6 @@
               }
             },
             {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
-              }
-            },
-            {
               "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
               "ask": "Site 1",
               "input": {
@@ -3027,13 +2922,6 @@
                     "text": "Site 5"
                   }
                 ]
-              }
-            },
-            {
-              "ask": "Describe your decision making process. How did you select the potential site in Question 1?",
-              "input": {
-                "required": false,
-                "type": "text"
               }
             },
             {
@@ -4861,14 +4749,35 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
+              "input": {
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "options": [
+
+              ],
+              "image": "img/Point_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]
@@ -4880,14 +4789,32 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
+              "input": {
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "image": "img/Point_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]
@@ -4899,14 +4826,32 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
+              "input": {
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "image": "img/Aggregated_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]
@@ -4918,14 +4863,32 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
+              "input": {
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "image": "img/Aggregated_pref.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]
