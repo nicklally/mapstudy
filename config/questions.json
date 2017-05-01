@@ -80,78 +80,7 @@
         {
           "blocks": [
             {
-              "title": "SURVEY",
-              "ask": "ENTRANCE SURVEY",
-              "description": "Q1",
-              "input": {
-                "required": false,
-                "type": "text",
-                "options": [],
-                "items": []
-              }
-            },
-            {
-              "description": "Q2",
-              "input": {
-                "required": false,
-                "type": "paragraph"
-              }
-            },
-            {
-              "description": "Q3",
-              "input": {
-                "required": false,
-                "type": "checkboxes",
-                "items": [
-                  {
-                    "text": "check1",
-                    "label": "p4s1b3i1"
-                  },
-                  {
-                    "text": "check2"
-                  },
-                  {
-                    "text": "check3"
-                  }
-                ]
-              }
-            },
-            {
-              "description": "Q4",
-              "input": {
-                "required": false,
-                "type": "radios",
-                "options": [
-                  {
-                    "text": "radio1"
-                  },
-                  {
-                    "text": "radio2"
-                  },
-                  {
-                    "text": "radio3"
-                  }
-                ]
-              }
-            },
-            {
-              "description": "Q5",
-              "input": {
-                "required": false,
-                "autoadvance": false,
-                "type": "dropdown",
-                "options": [
-                  {
-                    "text": "drop1"
-                  },
-                  {
-                    "text": "drop2"
-                  },
-                  {
-                    "text": "drop3"
-                  }
-                ]
-              }
+              "title": "Part 1"
             }
           ],
           "buttons": [
@@ -164,15 +93,58 @@
     },
     {
       "page": 6,
-      "fullpage": true
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Part 2"
+            }
+          ],
+          "buttons": [
+            "next",
+            "back",
+            "save"
+          ]
+        }
+      ]
     },
     {
       "page": 7,
-      "fullpage": true
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Part 3"
+            }
+          ],
+          "buttons": [
+            "next",
+            "back",
+            "save"
+          ]
+        }
+      ]
     },
     {
       "page": 8,
-      "fullpage": true
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Exit Survey",
+              "ask": "Please complete this exit survey to receive compensation."
+            }
+          ],
+          "buttons": [
+            "next",
+            "back",
+            "save"
+          ]
+        }
+      ]
     },
     {
       "page": 9,
@@ -4783,7 +4755,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
@@ -4824,7 +4796,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
@@ -4862,7 +4834,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
@@ -4900,7 +4872,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
@@ -4938,7 +4910,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
@@ -4990,7 +4962,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
@@ -5042,7 +5014,7 @@
         {
           "blocks": [
             {
-              "title": "Part 3: Map Preference Survey",
+              "title": "Map Preference Survey",
               "ask": "Which base map do you prefer?",
               "input": {
                 "required": false,

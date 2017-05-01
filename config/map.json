@@ -432,13 +432,14 @@
       "dataLayers": [
         {
           "name": "syria deaths",
-          "source": "data/aleppoIndividual.geojson",
+          "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
             "Name",
             "Status",
             "Cause",
-            "Actors"
+            "Actors",
+            "Story"
           ],
           "renderOnLoad": true,
           "layerOptions": {
@@ -617,13 +618,14 @@
       "dataLayers": [
         {
           "name": "syria deaths",
-          "source": "data/aleppoIndividual.geojson",
+          "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
             "Name",
             "Status",
             "Cause",
-            "Actors"
+            "Actors",
+            "Story"
           ],
           "renderOnLoad": true,
           "layerOptions": {
@@ -805,13 +807,14 @@
       "dataLayers": [
         {
           "name": "syria deaths",
-          "source": "data/aleppoIndividual.geojson",
+          "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
             "Name",
             "Status",
             "Cause",
-            "Actors"
+            "Actors",
+            "Story"
           ],
           "renderOnLoad": true,
           "layerOptions": {
@@ -991,13 +994,14 @@
       "dataLayers": [
         {
           "name": "syria deaths",
-          "source": "data/aleppoIndividual.geojson",
+          "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
             "Name",
             "Status",
             "Cause",
-            "Actors"
+            "Actors",
+            "Story"
           ],
           "renderOnLoad": true,
           "techniques": [
