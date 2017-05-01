@@ -547,8 +547,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+            },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -575,8 +577,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -726,8 +727,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -754,7 +757,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
+              "title": "2. Rank each potential site from least suitable to most suitable. ",
               "ask": "Site 1",
               "input": {
                 "required": false,
@@ -909,11 +912,12 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Syria",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -938,8 +942,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -1089,11 +1092,12 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Syria",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1118,8 +1122,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -1269,11 +1272,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Oakland",
-              "ask": "Scenario description"
-            },
+              "title": "Oakland Case Study"
+              },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1298,8 +1300,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -1449,11 +1450,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Oakland",
-              "ask": "Scenario description"
-            },
+              "title": "Oakland Case Study"
+              },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1478,8 +1478,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -1633,11 +1632,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Oakland",
-              "ask": "Scenario description"
-            },
+              "title": "Oakland Case Study"
+              },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1662,8 +1660,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -1813,11 +1810,11 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Oakland",
-              "ask": "Scenario description"
-            },
+              "title": "Oakland Case Study"
+
+              },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1842,8 +1839,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -1993,11 +1989,12 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Syria",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2022,8 +2019,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -2173,11 +2169,12 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Syria",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2202,8 +2199,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "title": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -2357,11 +2353,12 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Syria",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2386,8 +2383,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -2537,11 +2533,12 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Syria",
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "title": "Aleppo Case Study"
+              },
+            {
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2566,8 +2563,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -2717,11 +2713,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study Two Task, Oakland",
-              "ask": "Scenario description"
-            },
+              "title": "Oakland Case Study"
+              },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2746,8 +2741,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -2897,11 +2891,10 @@
         {
           "blocks": [
             {
-              "title": "Case Study One Task, Oakland",
-              "ask": "Scenario description"
-            },
+              "title": "Oakland Case Study"
+              },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2926,8 +2919,7 @@
               }
             },
             {
-              "title": "Rank each potential emergency relief center site from least suitable to most suitable ",
-              "ask": "Site 1",
+              "ask": "2. Rank each potential site from least suitable to most suitable. ",
               "input": {
                 "required": false,
                 "type": "matrix",
