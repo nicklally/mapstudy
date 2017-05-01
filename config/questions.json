@@ -5507,6 +5507,87 @@
     {
       "blocks": [
         {
+          "title": "Please rank the following:"
+          },
+        {
+              "ask": "To what degree is racism a problem in the United States?",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1–Very Slightly or Not at All\n"
+                  },
+                  {
+                    "text": "2–A Little"
+                  },
+                  {
+                    "text": "3–Moderately"
+                  },
+                  {
+                    "text": "4–Quite a Bit"
+                  },
+                  {
+                    "text": "5–Extremely"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+        {
+          "ask": "Please rate your <i>interest</i> in the following topics:",
+          "input": {
+            "type": "matrix",
+            "items": [
+              {
+                "text": "Computer technology"
+              },
+              {
+                "text": "The internet"
+              },
+              {
+                "text": "Map design"
+              },
+              {
+                "text": "geography"
+              }
+            ],
+            "options": [
+              {
+                "text": "1-Uninterested"
+              },
+              {
+                "text": "2"
+              },
+              {
+                "text": "3"
+              },
+              {
+                "text": "4"
+              },
+              {
+                "text": "5-Very Interested"
+              }
+            ]
+          }
+        }
+      ],
+      "buttons": [
+        "back",
+        "submit"
+      ]
+    }
+  ]
+},
+{
+  "page": 54,
+  "fullpage": true,
+  "sets": [
+    {
+      "blocks": [
+        {
           "title": "Thank you for participating!",
           "ask": "Please use the following unique code to confirm your particiapation in this study: <strong>XY374M</strong>"
         }
