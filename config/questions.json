@@ -5333,7 +5333,7 @@
         "blocks": [
           {
             "title": "Exit Survey–Previous Knowledge",
-            "ask": "Please rate your <i>knowledge</i> of the following topics:",
+            "ask": "Please rate your <i>familiarity</i> or <i>knowledge</i> of the following topics:",
             "input": {
               "type": "matrix",
               "items": [
@@ -5364,19 +5364,19 @@
               ],
               "options": [
                 {
-                  "text": "1–I do not know anything about this topic"
+                  "text": "1–Unfamiliar"
                 },
                 {
                   "text": "2"
                 },
                 {
-                  "text": "3–I have an average understanding of this topic"
+                  "text": "3"
                 },
                 {
                   "text": "4"
                 },
                 {
-                  "text": "5–I know a lot about this topic"
+                  "text": "5–Very familiar"
                 }
               ]
             }
@@ -5396,24 +5396,24 @@
                   "text": "Map design"
                 },
                 {
-                  "text": "geography"
+                  "text": "Geography"
                 }
               ],
               "options": [
                 {
-                  "text": "1-I do not know anything about this topic"
+                  "text": "1-Unfamiliar"
                 },
                 {
                   "text": "2"
                 },
                 {
-                  "text": "3–I have an average understanding of this topic"
+                  "text": "3"
                 },
                 {
                   "text": "4"
                 },
                 {
-                  "text": "5-I know a lot about this topic"
+                  "text": "5-Very familiar"
                 }
               ]
             }
@@ -5466,19 +5466,19 @@
             ],
             "options": [
               {
-                "text": "1–I do not know anything about this topic"
+                "text": "1–Uninterested"
               },
               {
                 "text": "2"
               },
               {
-                "text": "3–I have an average understanding of this topic"
+                "text": "3"
               },
               {
                 "text": "4"
               },
               {
-                "text": "5–I know a lot about this topic"
+                "text": "5–Very Interested"
               }
             ]
           }
@@ -5503,19 +5503,19 @@
             ],
             "options": [
               {
-                "text": "1-I do not know anything about this topic"
+                "text": "1-Uninterested"
               },
               {
                 "text": "2"
               },
               {
-                "text": "3–I have an average understanding of this topic"
+                "text": "3"
               },
               {
                 "text": "4"
               },
               {
-                "text": "5-I know a lot about this topic"
+                "text": "5-Very Interested"
               }
             ]
           }
@@ -5535,9 +5535,8 @@
     {
       "blocks": [
         {
-          "label": "Thanks",
-          "title": "THANKS!"
-
+          "title": "Thank you for participating!",
+          "ask": "Please use the following unique code to confirm your particiapation in this study: <strong>XY374M</strong>"
         }
       ]
     }
