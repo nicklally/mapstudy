@@ -2871,43 +2871,96 @@
         },
         {
 					"name": "emergency locations",
-					"source": "data/oakSites.geojson",
+					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
 						"SiteNumber"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
-          "fillOpacity": 1,
-          "color": "#000",
-          "weight": 0.5,
-          "opacity": 1
-      },
+          "opacity": 0.5
+        },
 					"techniques": [
 						{
-							"type": "label",
-							"size": 15
+							"type": "point",
+              "symbol": "img/iconsCustom/site1.png",
+							"size": 10
 						}
 					]
 				},
         {
 					"name": "emergency locations",
-					"source": "data/oakSites.geojson",
+					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
 						"SiteNumber"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
-          "fillOpacity": 0.8,
-          "color": "#000",
-          "weight": 0.5,
-          "opacity": 1
-      },
+          "opacity": 0.5
+        },
 					"techniques": [
 						{
 							"type": "point",
-							"size": 8
+              "symbol": "img/iconsCustom/site2.png",
+							"size": 10
+						}
+					]
+				},
+        {
+					"name": "emergency locations",
+					"source": "data/oakSite3.geojson",
+					"expressedAttribute": "id",
+					"displayAttributes": [
+						"SiteNumber"
+					],
+					"renderOnLoad": true,
+          "layerOptions": {
+          "opacity": 0.5
+        },
+					"techniques": [
+						{
+							"type": "point",
+              "symbol": "img/iconsCustom/site3.png",
+							"size": 10
+						}
+					]
+				},
+        {
+					"name": "emergency locations",
+					"source": "data/oakSite4.geojson",
+					"expressedAttribute": "id",
+					"displayAttributes": [
+						"SiteNumber"
+					],
+					"renderOnLoad": true,
+          "layerOptions": {
+          "opacity": 0.5
+        },
+					"techniques": [
+						{
+							"type": "point",
+              "symbol": "img/iconsCustom/site4.png",
+							"size": 10
+						}
+					]
+				},
+        {
+					"name": "emergency locations",
+					"source": "data/oakSite5.geojson",
+					"expressedAttribute": "id",
+					"displayAttributes": [
+						"SiteNumber"
+					],
+					"renderOnLoad": true,
+          "layerOptions": {
+          "opacity": 0.5
+        },
+					"techniques": [
+						{
+							"type": "point",
+              "symbol": "img/iconsCustom/site5.png",
+							"size": 10
 						}
 					]
 				}
