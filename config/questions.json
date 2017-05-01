@@ -3114,7 +3114,7 @@
         {
           "blocks": [
             {
-              "title": "Syria Survey Questions",
+              "title": "Syria Survey Questions (scroll to view all questions)",
               "ask": "The words below describe different feelings and emotions. Please rank each word from 1 to 5 based on your current feelings and emotions after viewing the previous map. Rank each word based on the extent to which you feel the word right now."
             },
             {
@@ -3731,7 +3731,7 @@
         {
           "blocks": [
             {
-              "title": "Syria Survey Questions"
+              "title": "Syria Survey Questions (scroll to view all questions)"
             },
             {
               "ask": "1. What was the map about? ",
@@ -3948,7 +3948,7 @@
         {
           "blocks": [
             {
-              "title": "Oakland Survey Questions",
+              "title": "Oakland Survey Questions (scroll to view all questions)",
               "ask": "The words below describe different feelings and emotions. Please rank each word from 1 to 5 based on your current feelings and emotions after viewing the previous map. Rank each word based on the extent to which you feel the word right now."
             },
             {
@@ -4566,7 +4566,7 @@
         {
           "blocks": [
             {
-              "title": "Oakland Survey Questions"
+              "title": "Oakland Survey Questions (scroll to view all questions)"
             },
             {
               "ask": "1. What was the map about? ",
@@ -5135,7 +5135,7 @@
         {
           "blocks": [
             {
-							"title": "Exit Survey-Biographic Information",
+							"title": "Exit Survey Information (scroll to view all questions)",
 							"ask": "What is your age?",
 							"input": {
 								"required": false,
@@ -5161,41 +5161,43 @@
 								]
 							}
 						},
-						{
-							"ask": "Do you have corrected vision?",
-							"input": {
-								"required": false,
-								"autoadvance": false,
-								"type": "radios",
-								"options": [
-									{
-										"text": "Yes"
-									},
-									{
-										"text": "No"
-									}
-								]
-							}
-						},
-						{
-							"ask": "Do you have color vision impairment?",
-							"input": {
-								"required": false,
-								"autoadvance": false,
-								"type": "radios",
-								"options": [
-									{
-										"text": "Yes"
-									},
-									{
-										"text": "No"
-									},
-									{
-										"text": "I don't know"
-									}
-								]
-							}
-						},
+            {
+              "ask": "What is the highest degree or level of school you have completed?",
+              "input": {
+                "required": false,
+                "autoadvance": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "No schooling completed"
+                  },
+                  {
+                    "text": "Some high school, no diploma"
+                  },
+                  {
+                    "text": "High school graduate or equivalent (GED)"
+                  },
+                  {
+                    "text": "Some college credit, no diploma"
+                  },
+                  {
+                    "text": "Trade/technical/vocational training"
+                  },
+                  {
+                    "text": "Associate degree"
+                  },
+                  {
+                    "text": "Bachelor’s degree"
+                  },
+                  {
+                    "text": "Professional degree"
+                  },
+                  {
+                    "text": "Doctorate degree"
+                  }
+                ]
+              }
+            },
 						{
 							"ask": "Is English your first language?",
 							"input": {
@@ -5227,7 +5229,93 @@
 									}
 								]
 							}
-						}
+						},
+            {
+              "ask": "Do you currently live in the United States?",
+              "input": {
+                "required": false,
+                "autoadvance": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Yes"
+                  },
+                  {
+                    "text": "No"
+                  }
+                ]
+              }
+            },
+            {
+              "ask": "Do you currently live in California?",
+              "input": {
+                "required": false,
+                "autoadvance": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Yes"
+                  },
+                  {
+                    "text": "No"
+                  }
+                ]
+              }
+            },
+            {
+              "ask": "Do you have corrected vision?",
+              "input": {
+                "required": false,
+                "autoadvance": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Yes"
+                  },
+                  {
+                    "text": "No"
+                  }
+                ]
+              }
+            },
+            {
+              "ask": "Do you have color vision impairment?",
+              "input": {
+                "required": false,
+                "autoadvance": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Yes"
+                  },
+                  {
+                    "text": "No"
+                  },
+                  {
+                    "text": "I don't know"
+                  }
+                ]
+              }
+            },
+            {
+              "ask": "Did you complete this survey on a laptop or desktop computer?",
+              "input": {
+                "required": false,
+                "autoadvance": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Yes"
+                  },
+                  {
+                    "text": "No"
+                  },
+                  {
+                    "text": "I don't know"
+                  }
+                ]
+              }
+            }
           ],
           "buttons": [
             "next",
