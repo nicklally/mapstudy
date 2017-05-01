@@ -185,10 +185,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -222,7 +222,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -234,7 +234,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -249,7 +249,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -261,7 +261,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -276,7 +276,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -288,7 +288,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -303,7 +303,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -315,7 +315,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -330,7 +330,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -342,7 +342,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -366,10 +366,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -403,7 +403,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -415,7 +415,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -430,7 +430,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -442,7 +442,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -457,7 +457,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -469,7 +469,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -484,7 +484,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -496,7 +496,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -511,7 +511,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -523,7 +523,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -547,10 +547,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
             },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -577,13 +577,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -595,7 +598,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -610,7 +613,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -622,7 +625,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -637,7 +640,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -649,7 +652,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -664,7 +667,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -676,7 +679,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -691,7 +694,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -703,7 +706,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -727,10 +730,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -757,14 +760,16 @@
               }
             },
             {
-              "title": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
               "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -776,7 +781,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -791,7 +796,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -803,7 +808,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -818,7 +823,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -830,7 +835,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -845,7 +850,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -857,7 +862,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -872,7 +877,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -884,7 +889,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -912,10 +917,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -942,13 +947,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -960,7 +968,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -975,7 +983,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -987,7 +995,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1002,7 +1010,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1014,7 +1022,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1029,7 +1037,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1041,7 +1049,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1056,7 +1064,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1068,7 +1076,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1092,10 +1100,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -1122,13 +1130,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1140,7 +1151,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1155,7 +1166,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1167,7 +1178,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1182,7 +1193,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1194,7 +1205,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1209,7 +1220,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1221,7 +1232,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1236,7 +1247,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1248,7 +1259,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1272,10 +1283,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1300,13 +1311,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1318,7 +1332,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1333,7 +1347,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1345,7 +1359,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1360,7 +1374,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1372,7 +1386,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1387,7 +1401,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1399,7 +1413,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1414,7 +1428,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1426,7 +1440,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1450,10 +1464,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1478,13 +1492,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1 ",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1496,7 +1513,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1511,7 +1528,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1523,7 +1540,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1538,7 +1555,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1550,7 +1567,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1565,7 +1582,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1577,7 +1594,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1592,7 +1609,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1604,7 +1621,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1632,10 +1649,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1660,13 +1677,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1678,7 +1698,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1693,7 +1713,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1705,7 +1725,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1720,7 +1740,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1732,7 +1752,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1747,7 +1767,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1759,7 +1779,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1774,7 +1794,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1786,7 +1806,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1810,11 +1830,11 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
 
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1839,13 +1859,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1857,7 +1880,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1872,7 +1895,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1884,7 +1907,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1899,7 +1922,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1911,7 +1934,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1926,7 +1949,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1938,7 +1961,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1953,7 +1976,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -1965,7 +1988,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -1989,10 +2012,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -2019,13 +2042,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2037,7 +2063,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2052,7 +2078,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2064,7 +2090,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2079,7 +2105,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2091,7 +2117,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2106,7 +2132,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2118,7 +2144,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2133,7 +2159,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2145,7 +2171,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2169,10 +2195,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -2199,13 +2225,16 @@
               }
             },
             {
-              "title": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2217,7 +2246,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2232,7 +2261,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2244,7 +2273,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2259,7 +2288,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2271,7 +2300,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2286,7 +2315,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2298,7 +2327,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2313,7 +2342,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2325,7 +2354,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2353,10 +2382,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -2383,13 +2412,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
-                  {
-                    "text": "1–Not at All Suitable"
+                   {
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2401,7 +2433,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2416,7 +2448,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2428,7 +2460,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2443,7 +2475,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2455,7 +2487,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2470,7 +2502,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2482,7 +2514,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2497,7 +2529,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2509,7 +2541,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2533,10 +2565,10 @@
         {
           "blocks": [
             {
-              "title": "Aleppo Case Study"
+              "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
             },
             {
               "input": {
@@ -2563,13 +2595,16 @@
               }
             },
             {
-              "ask": "Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2581,7 +2616,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2596,7 +2631,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2608,7 +2643,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2623,7 +2658,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2635,7 +2670,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2650,7 +2685,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2662,7 +2697,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2677,7 +2712,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2689,7 +2724,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2713,10 +2748,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2741,13 +2776,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2759,7 +2797,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2774,7 +2812,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2786,7 +2824,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2801,7 +2839,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2813,7 +2851,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2828,7 +2866,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2840,7 +2878,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2855,7 +2893,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2867,7 +2905,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2891,10 +2929,10 @@
         {
           "blocks": [
             {
-              "title": "Oakland Case Study"
+              "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2919,13 +2957,16 @@
               }
             },
             {
-              "ask": "2. Rank each potential site from least suitable to most suitable. ",
+              "ask": "2. Rank each potential site from least suitable to most suitable. "
+            },
+            {
+              "ask": "Site 1",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2937,7 +2978,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2952,7 +2993,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2964,7 +3005,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -2979,7 +3020,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -2991,7 +3032,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -3006,7 +3047,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -3018,7 +3059,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
@@ -3033,7 +3074,7 @@
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Not at All Suitable"
+                    "text": "1–Least Suitable"
                   },
                   {
                     "text": "2"
@@ -3045,7 +3086,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Very Suitable"
+                    "text": "5-Most Suitable"
                   }
                 ],
                 "items": [
