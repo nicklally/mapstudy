@@ -1917,9 +1917,9 @@
         {
           "name": "aleppo deaths",
           "source": "data/aleppoAggregated.geojson",
-          "expressedAttribute": "Sept_2016",
+          "expressedAttribute": "Classes",
           "displayAttributes": [
-            "Sept_2016"
+            "Description"
           ],
             "layerOptions": {
             "fillOpacity": 0.8,
@@ -2103,9 +2103,9 @@
         {
           "name": "aleppo deaths",
           "source": "data/aleppoAggregated.geojson",
-          "expressedAttribute": "Sept_2016",
+          "expressedAttribute": "Classes",
           "displayAttributes": [
-            "Sept_2016"
+            "Description"
           ],
             "layerOptions": {
             "fillOpacity": 0.8,
@@ -2292,9 +2292,13 @@
         {
           "name": "aleppo deaths",
           "source": "data/aleppoAggregated.geojson",
-          "expressedAttribute": "Sept_2016",
+          "expressedAttribute": "Classes",
           "displayAttributes": [
-            "Sept_2016"
+            "Count",
+            "Age (average)",
+            "Male (%)",
+            "Civilian (%)",
+            "Shelling (%)"
           ],
             "layerOptions": {
             "fillOpacity": 0.8,
@@ -2478,9 +2482,13 @@
         {
           "name": "aleppo deaths",
           "source": "data/aleppoAggregated.geojson",
-          "expressedAttribute": "Sept_2016",
+          "expressedAttribute": "Classes",
           "displayAttributes": [
-            "Sept_2016"
+            "Count",
+            "Age (average)",
+            "Male (%)",
+            "Civilian (%)",
+            "Shelling (%)"
           ],
             "layerOptions": {
             "fillOpacity": 0.8,
