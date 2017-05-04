@@ -43,7 +43,7 @@
           "blocks": [
             {
               "title": "Oakland Case Study Introduction",
-              "ask": "The Washington Post reports that 1954 people were killed by police in the United State between 2015 and 2016. A majority of these individuals fit three categories: they were carrying weapons, they were mentally unstable, or they ran away from police officers. Of these, 400 or one and ten were unarmed (THIS NUMBER DOES NOT MAKE SENSE). National and political unrest related to police killings has escalated since a police officer in Ferguson, Missouri killed Michael Brown in August 2014. Brown’s death brought media attention, riots, protests, and national debate concerning policing, crime, and race.<br /><br /> California, the most populous state, leads the nation in killings by police. Just under a third of the victims displayed signs of mental illness and just under half were Hispanic. A significant majority of those shot and killed were men between the ages of 18 and 44. Oakland, California is home to 420,000 residents and is the 8th largest city in California. Between 2000 and 2017 an estimated 104 people were killed by police in Oakland. "
+              "ask": "In the past three years, a number of police killings in the United States have received widespread media attention, sparking national debates on law enforcement practices. The killing of unarmed black men in particular have given rise to massive protests and activist movements across the country. The killing of Michael Brown in Ferguson, Eric Garner in New York City, Walter Scott in South Carolina, and Freddie Gray in Baltimore, to name a few, all received sustained media attention, leading some journalists to begin investigating the extent of the issue. Statistics on police killings in the United States, however, are not recorded by the government. In response, media outlets like the Washington Post and the Guardian (United Kingdom) have began to compile statistics on police killings using public records, news reports, and crowdsourcing. The Guardian estimates that over 1000 people were killed each year by police in 2015 and 2016. James Comey, head of the FBI, said that it was 'embarrassing and ridiculous' that media sources had better information on this issue than the US Government. <br /><br /> California, the most populous state, leads the nation in killings by police. In Oakland, California, the 8th largest city in California, an estimated 104 people were killed by police between 2000 and 2017."
             }
           ],
           "buttons": [
@@ -160,7 +160,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -341,7 +341,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
             },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1258,7 +1258,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1439,7 +1439,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1624,7 +1624,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1806,7 +1806,7 @@
 
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2723,7 +2723,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2904,7 +2904,7 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "National organizations like the American Civil Liberties Union (ACLU) have actively worked to provide local information and oversight to governing organizations such as law enforcement. The ACLU would like to place a police oversight center in Oakland and have proposed five potential locations for the center.<br /><br />1. Using the five potential sites and the shooting distribution depicted in the interactive map, determine which location would be best suited for the new center.<br /><br />   ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
