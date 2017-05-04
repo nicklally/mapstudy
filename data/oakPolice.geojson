@@ -22,7 +22,7 @@
         "Census Block Code": "4003",
         "Description": "Mack \"Jody\" Woodfox, a 27 year old African-American/Black Male was killed by police on 07/25/2008. Mack \"Jody\" Woodfox, 27, was shot and killed after an attempted traffic stop",
         "year": "2008",
-        "age": "27",
+        "age": 27,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -56,7 +56,7 @@
         "Census Block Code": "2007",
         "Description": "Arthur Raleigh, a 34 year old African-American/Black Male was killed by police on 09/26/2011. Arthur Raleigh, 34, was shot after he fled from a car and threatened the officer with a gun.",
         "year": "2011",
-        "age": "34",
+        "age": 34,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -90,7 +90,7 @@
         "Census Block Code": "1007",
         "Description": "Yonas Alehegne, a 30 year old African-American/Black Male was killed by police on 08/27/2015. Alehegne allegedly attacked an officer with a metal bicycle chain before she returned fire, according to authorities. Police said the officer was treated for injuries to her face and head and released from the hospital.",
         "year": "2015",
-        "age": "30",
+        "age": 30,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -124,7 +124,7 @@
         "Census Block Code": "2002",
         "Description": "Davon Jackson, a 30 year old African-American/Black Male was killed by police on 05/18/2011. Davon Jackson was shot and killed after he, John Sloan and a third man were stopped by Oakland police. Police said the men were armed and confrontational. Moments later, police shot Davon Jackson in the side while he sat in the driver's seat and John Sloan in the back of the head while he ran away.",
         "year": "2011",
-        "age": "30",
+        "age": 30,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -158,7 +158,7 @@
         "Census Block Code": "4012",
         "Description": "Raheim Brown, a 20 year old African-American/Black Male was killed by police on 01/22/2011. Raheim Brown was sitting in an allegedly stolen car with its hazard lights flashing near the grounds of Skyline High School. When officers approached the car, Brown stabbed one of the officers with a screwdriver. The other officer shot and killed Brown.",
         "year": "2011",
-        "age": "20",
+        "age": 20,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -192,7 +192,7 @@
         "Census Block Code": "4000",
         "Description": "Roshawn Hill, a 18 year old African-American/Black Male was killed by police on 06/05/2002. Hill, a murder suspect who had been convicted of robbery, fired his gun into a police car after a robbery. An officer fired back, killing Hill",
         "year": "2002",
-        "age": "18",
+        "age": 18,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -226,7 +226,7 @@
         "Census Block Code": "3011",
         "Description": "Willie Wilkens, a 29 year old African-American/Black Male was killed by police on 01/11/2001. Two rookie Oakland patrolmen shot and killed an undercover narcotics officer  who they didn't realize was one of their own - as he arrested a suspected car thief,",
         "year": "2001",
-        "age": "29",
+        "age": 29,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -260,7 +260,7 @@
         "Census Block Code": "2006",
         "Description": "Richard Perkins, a 39 year old African-American/Black Male was killed by police on 11/15/2015. Officers were responding to a sideshow were standing around doing paperwork and waiting for tow trucks before the incident occurred. The officers scattered when Perkins pulled what appeared to be a black pistol from his waistband. No communication was made with Perkins before the officers fatally shot him.",
         "year": "2015",
-        "age": "39",
+        "age": 39,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -294,7 +294,7 @@
         "Census Block Code": "1010",
         "Description": "Pedro Ariel Hernandez, a 19 year old Hispanic/Latino Male was killed by police on 07/27/2011. Pedro Ariel Hernandez was killed after he fled from the CHP and crashed near an Oakland freeway off-ramp.",
         "year": "2011",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -328,7 +328,7 @@
         "Census Block Code": "1016",
         "Description": "Jason Alexander Brown, a 18 year old African-American/Black Male was killed by police on 11/19/2015. Jason Brown reportedly killed himself during a standoff at an Oakland motel.",
         "year": "2015",
-        "age": "18",
+        "age": 18,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -362,7 +362,7 @@
         "Census Block Code": "1006",
         "Description": "Jacorey Calhoun, a 23 year old African-American/Black Male was killed by police on 08/03/2014. Alameda County Deputy Thoms fatally shot Jacorey Calhoun, 23, on Aug. 3 near 105th and Edes avenues after Calhoun allegedly fled from an Oakland police car stop. Officers had tried to stop Calhoun as he drove a 2001 Volvo near 55th and Fairfax avenues in East Oakland. The Volvo was connected to a home-invasion robbery July 12.",
         "year": "2014",
-        "age": "23",
+        "age": 23,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -396,7 +396,7 @@
         "Census Block Code": "4015",
         "Description": "Maurice Esters, a 28 year old African-American/Black Male was killed by police on 07/04/2000. Officers Mike Yoell and Anthony Centeno shot Maurice Esters when he allegedly raised a gun in what police considered a threatening manner.",
         "year": "2000",
-        "age": "28",
+        "age": 28,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -430,7 +430,7 @@
         "Census Block Code": "1009",
         "Description": "Obataiye Edwards, a 19 year old African-American/Black Male was killed by police on 12/20/2010. Edwards was shot after a in-vehicle pursuit ended with Edwards crashing into a home, and then running away on foot. His .380 semi-automatic pistol, was recovered at the scene.",
         "year": "2010",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -464,7 +464,7 @@
         "Census Block Code": "5000",
         "Description": "Antonio Clements, a 49 year old African-American/Black Male was killed by police on 08/03/2015. Clements was suspected of sexual assault, and when officers arrived at his residence, he came out and shot an officer in the chest. Then, officers shot him to death.",
         "year": "2015",
-        "age": "49",
+        "age": 49,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -498,7 +498,7 @@
         "Census Block Code": "1002",
         "Description": "David Taiwai Chang, a 52 year old Asian/Pacific Islander Male was killed by police on 05/06/2002. David Taiwai Chang reportedly shot himself during a six-hour standoff with SWAT.",
         "year": "2002",
-        "age": "52",
+        "age": 52,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -532,7 +532,7 @@
         "Census Block Code": "1010",
         "Description": "Jody Perry, a 37 year old African-American/Black Female was killed by police on 11/09/2003. Gregory Charles and Jody Perry were killed, and Charles' 7-year-old son was seriously injured, when a suspected drunken driver who was fleeing from police ran a red light and crashed into their car.",
         "year": "2003",
-        "age": "37",
+        "age": 37,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -566,7 +566,7 @@
         "Census Block Code": "4023",
         "Description": "Ronald Brazier, a 17 year old African-American/Black Male was killed by police on 08/02/2006. Brazier was about to be questioned about some slayings this summer was killed by police after he fired a handgun at them",
         "year": "2006",
-        "age": "17",
+        "age": 17,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -600,7 +600,7 @@
         "Census Block Code": "2002",
         "Description": "Jeremiah Dye, a 22 year old Hispanic/Latino Male was killed by police on 05/19/2007. Jeremiah Dye was killed in a crawlspace under an East Oakland house. Dye had run from police after his cousin shot and wounded an OPD officer during a traffic stop.",
         "year": "2007",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -634,7 +634,7 @@
         "Census Block Code": "4005",
         "Description": "Fred Collins, a 49 year old African-American/Black Male was killed by police on 07/17/2010. Fred Collins, 48, who threatened officers with a knife and shouted “shoot me,” was shot and killed by five police officers — three from Oakland Police and two from BART Police",
         "year": "2010",
-        "age": "49",
+        "age": 49,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -668,7 +668,7 @@
         "Census Block Code": "3013",
         "Description": "Demouria Hogg, a 30 year old African-American/Black Male was killed by police on 06/06/2015. Hogg was unconscious in his car, investigations are open to determine why the police officers opened fire.",
         "year": "2015",
-        "age": "30",
+        "age": 30,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -702,7 +702,7 @@
         "Census Block Code": "1008",
         "Description": "Jose Luis Buenrostro, a 15 year old Hispanic/Latino Male was killed by police on 03/19/2008. Three officers from the police gang unit shot and killed 15-year-old Jose Luis Buenrostro, who allegedly had ties to a gang, after he pointed a sawed-off rifle at them.",
         "year": "2008",
-        "age": "15",
+        "age": 15,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -736,7 +736,7 @@
         "Census Block Code": "3006",
         "Description": "Booker Carloss II, a 50 year old African-American/Black Male was killed by police on 11/04/2004. Carloss was shot and killed when he charged at police with an ax after they shot him with stun guns and a bean-bag.",
         "year": "2004",
-        "age": "50",
+        "age": 50,
         "Place FIPS": "622594"
       },
       "geometry": {
@@ -770,7 +770,7 @@
         "Census Block Code": "1006",
         "Description": "Brownie Polk, a 46 year old African-American/Black Male was killed by police on 08/01/2009. Polk was holding a hatchet over his head in a threatening manner when he was shot. The owner of Tolin Liquor Store had called police to report that Polk, 46, was causing problems inside the store by harassing the owner and store customers.",
         "year": "2009",
-        "age": "46",
+        "age": 46,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -804,7 +804,7 @@
         "Census Block Code": "1012",
         "Description": "Marquita Bosley, a 25 year old African-American/Black Female was killed by police on 08/26/2009. Marquita Bosley was killed and her 19-month-old son Nai'ere was critically injured when a driver fleeing police crashed into Bosley's car in West Oakland.",
         "year": "2009",
-        "age": "25",
+        "age": 25,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -838,7 +838,7 @@
         "Census Block Code": "1010",
         "Description": "Oscar Grant III, a 22 year old African-American/Black Male was killed by police on 01/01/2009. A restrained and unarmed Oscar Grant was shot in the back by by Bay Area Rapid Transit police officer Johannes Mehserle. Mehserle was found guilty of involuntary manslaughter, and sentenced to two years in state prison with 292 days of credit for time already served.",
         "year": "2009",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -872,7 +872,7 @@
         "Census Block Code": "2004",
         "Description": "Charles Griffin, a 37 year old African-American/Black Male was killed by police on 08/22/2008. Police shot and killed Charles Griffin after he tried to flee an arrest with an officer in his car.",
         "year": "2008",
-        "age": "37",
+        "age": 37,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -906,7 +906,7 @@
         "Census Block Code": "3017",
         "Description": "Thomas Allen Freeman Jr., a 40 year old African-American/Black Male was killed by police on 04/06/2000. CHP officers shot and killed Thomas Allen Freeman Jr. on the upper deck of the Bay Bridge after he allegedly shot at them.",
         "year": "2000",
-        "age": "40",
+        "age": 40,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -940,7 +940,7 @@
         "Census Block Code": "3008",
         "Description": "Richard Linyard, a 23 year old African-American/Black Male was killed by police on 07/19/2015. Richard Linyard reportedly died of asphyxiation and was found wedged between two buildings after fleeing police during a traffic stop in East Oakland.",
         "year": "2015",
-        "age": "23",
+        "age": 23,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -974,7 +974,7 @@
         "Census Block Code": "2050",
         "Description": "Breeonna Mobley, a 24 year old African-American/Black Female was killed by police on 05/10/2003. Breeonna Mobley, was killed when the car in which she was riding crashed into a tree at more than 100 mph while fleeing police.",
         "year": "2003",
-        "age": "24",
+        "age": 24,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1008,7 +1008,7 @@
         "Census Block Code": "3008",
         "Description": "Martin Contreras, a 22 year old Hispanic/Latino Male was killed by police on 04/24/2010. Martin Contreras was a passenger killed when a 1997 Chevrolet Camaro being chased by the CHP crashed into an Oakland apartment building.",
         "year": "2010",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1042,7 +1042,7 @@
         "Census Block Code": "3003",
         "Description": "Nathaniel Wilks, a 24 year old African-American/Black Male was killed by police on 08/12/2015. Police were pursuing Wilks in a car chase when Wilks crashed his vehicle. He then attempted to carjack another car, pointed a gun at police, and was shot by three officers.",
         "year": "2015",
-        "age": "24",
+        "age": 24,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1076,7 +1076,7 @@
         "Census Block Code": "3014",
         "Description": "Dominique Currington, a 22 year old Race unspecified Male was killed by police on 12/10/2008. Passenger Dominique Currington was killed in a crash near the Bay Bridge after the driver fled a traffic stop.",
         "year": "2008",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "668084"
       },
       "geometry": {
@@ -1110,7 +1110,7 @@
         "Census Block Code": "3005",
         "Description": "Timothy Short, a 36 year old African-American/Black Male was killed by police on 08/13/2004. Timothy Short died in police custody after apparently suffocating on a bag of rock cocaine he swallowed",
         "year": "2004",
-        "age": "36",
+        "age": 36,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1144,7 +1144,7 @@
         "Census Block Code": "2000",
         "Description": "Brianna Elaine Carmina Ford, a 21 year old African-American/Black Female was killed by police on 12/27/2012. Brianna Elaine Carmina Ford was killed when a man fleeing the CHP in his BMW broadsided a sedan in which she was a passenger.",
         "year": "2012",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1178,7 +1178,7 @@
         "Census Block Code": "4001",
         "Description": "Jamil Wheatfall, a 36 year old African-American/Black Male was killed by police on 04/14/2001. The bank robbery suspect was beaten to death after a high speed pursuit.",
         "year": "2001",
-        "age": "36",
+        "age": 36,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1212,7 +1212,7 @@
         "Census Block Code": "3005",
         "Description": "Name withheld by police, a 19 year old Race unspecified Male was killed by police on 01/26/2013. An unnamed 19-year-old passenger was killed when a car fleeing El Cerrito police and the CHP lost contol and crashed in Oakland.",
         "year": "2013",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1246,7 +1246,7 @@
         "Census Block Code": "3014",
         "Description": "Crystal Erin Little, a 19 year old African-American/Black Female was killed by police on 02/04/2003. Crystal Erin Little suffered multiple blunt trauma when thrown from a car into oncoming traffic on I-580 after a police chase.",
         "year": "2003",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "668084"
       },
       "geometry": {
@@ -1280,7 +1280,7 @@
         "Census Block Code": "2005",
         "Description": "Robert Wollo, a 75 year old African-American/Black Male was killed by police on 09/23/2013. Two unidentified gang members were allegedly fleeing a police stop for a shooting crashed into and killed Robert Wollo, 75.",
         "year": "2013",
-        "age": "75",
+        "age": 75,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1314,7 +1314,7 @@
         "Census Block Code": "1002",
         "Description": "Kao Liew Saephan, a 37 year old Asian/Pacific Islander Male was killed by police on 08/04/2013. Kao Liew Saephan was killed when the Toyota pickup truck he was riding in was broadsided by a Porsche Cayenne being chased by deputies in East Oakland. According to officials, deputies tried to stop the Porsche's driver for speeding at about 4:45 a.m. on International Boulevard. Deputies chased the Porsche when the driver didn't pull over. Less than a minute after the chase started, the Porsche reportedly ran a stop sign and crashed into the passenger side of the Toyota. Saephan died at a hospital. The driver of the truck was hospitalized in critical condition. The Porsche's driver, Gerardo Ulises Rodriguez, 27, was charged with reckless driving causing great bodily injury or death, evading police and hit and run.",
         "year": "2013",
-        "age": "37",
+        "age": 37,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1348,7 +1348,7 @@
         "Census Block Code": "5002",
         "Description": "Jerry Andrew Amaro III, a 36 year old Hispanic/Latino Male was killed by police on 03/23/2000. Jerry Andrew Amaro III died April 21, 2000, from pneumonia caused by multiple rib fractures and a collapsed lung after he was beaten by police the month before.",
         "year": "2000",
-        "age": "36",
+        "age": 36,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1382,7 +1382,7 @@
         "Census Block Code": "1006",
         "Description": "Martin Flenaugh, a 19 year old African-American/Black Male was killed by police on 01/26/2011. Police were investigating reports of gunshots fired by two men in a red Infinity. The police pursued a car matching that description, which ran a red light, crashed into another vehicle, spun out and burst into flames. Flenaugh was the passenger. Flenaugh was shot by officers after he confronted the officers with multiple firearms.",
         "year": "2011",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1416,7 +1416,7 @@
         "Census Block Code": "1001",
         "Description": "Karen O. Chin, a 44 year old Asian/Pacific Islander Female was killed by police on 05/04/2000. Officers Steven Rodekohr and Liza Godineaux shot and killed Karen O. Chin when she allegedly ignored their orders to stop stabbing her sister.",
         "year": "2000",
-        "age": "44",
+        "age": 44,
         "Place FIPS": "600562"
       },
       "geometry": {
@@ -1450,7 +1450,7 @@
         "Census Block Code": "4003",
         "Description": "Maurice Evans Shavers Jr., a 21 year old African-American/Black Male was killed by police on 01/20/2010. Maurice Evans Shavers Jr., 21, was killed during a shootout following a robbery at Walgreens.",
         "year": "2010",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1484,7 +1484,7 @@
         "Census Block Code": "2009",
         "Description": "Laroy Brown, a 42 year old African-American/Black Male was killed by police on 07/18/2013. An off-duty Alameda County Sheriff's deputy fatally shot a gunman inside an Alameda grocery store during an attempted robbery.",
         "year": "2013",
-        "age": "42",
+        "age": 42,
         "Place FIPS": "600562"
       },
       "geometry": {
@@ -1518,7 +1518,7 @@
         "Census Block Code": "1010",
         "Description": "Casper Banjo, a 71 year old African-American/Black Male was killed by police on 03/14/2008. Casper Banjo, 71, was killed near the Eastmont police substation after he pointed a replica pistol at officers.",
         "year": "2008",
-        "age": "71",
+        "age": 71,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1552,7 +1552,7 @@
         "Census Block Code": "3009",
         "Description": "Andrew Gonzalez, a 21 year old Hispanic/Latino Male was killed by police on 04/26/2008. Officers shot Andrew Marcus Gonzalez, 21, after he crashed his carjacked car into a police cruiser, then tried to flee.",
         "year": "2008",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1586,7 +1586,7 @@
         "Census Block Code": "2013",
         "Description": "Jessica Castaneda-Rodriguez, a 25 year old Hispanic/Latino Female was killed by police on 05/27/2006. Jessica Castaneda-Rodriguez and Salvador Nieves Jr. were killed when a driver being chased by police ran a red light and crashed into their 2005 Nissan Sentra.",
         "year": "2006",
-        "age": "25",
+        "age": 25,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1620,7 +1620,7 @@
         "Census Block Code": "2004",
         "Description": "Hernan Jaramillo, a 51 year old Hispanic/Latino Male was killed by police on 07/08/2013. Died after a struggle with Oakland police officers who were attempting to force him into a police vehicle.",
         "year": "2013",
-        "age": "51",
+        "age": 51,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1654,7 +1654,7 @@
         "Census Block Code": "3011",
         "Description": "Name withheld by police, a 38 year old Hispanic/Latino Male was killed by police on 02/14/2014. An unnamed driver was killed after he crashed an allegedly stolen car in East Oakland while fleeing from the CHP.",
         "year": "2014",
-        "age": "38",
+        "age": 38,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1688,7 +1688,7 @@
         "Census Block Code": "3016",
         "Description": "Theophilus William Darku, a 75 year old African-American/Black Male was killed by police on 09/18/2002. Theophilus Darku was killed while driving with his 10-year-old granddaughter, when a stolen Saab fleeing police crashed into his turquoise Dodge Caravan.",
         "year": "2002",
-        "age": "75",
+        "age": 75,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1722,7 +1722,7 @@
         "Census Block Code": "2003",
         "Description": "Villa Valvatin, a 26 year old Hispanic/Latino Male was killed by police on 12/21/2007. Villa was driving a car that contained three other men that had been stopped at a stop sign for some time, arousing the suspicions of residents, who called police. Two Oakland police officers responded and as they approached the vehicle they said Villa started reaching for a pistol near him.",
         "year": "2007",
-        "age": "26",
+        "age": 26,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1756,7 +1756,7 @@
         "Census Block Code": "1009",
         "Description": "Eric Basuino, a 41 year old Race unspecified Male was killed by police on 11/05/2008. Eric Basuino reportedly shot his wife, Laura Sweat, as she tried to escape when police came to the door, then retreated to the back of the house and killed himself.",
         "year": "2008",
-        "age": "41",
+        "age": 41,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1790,7 +1790,7 @@
         "Census Block Code": "3008",
         "Description": "Gwendolyn Killings, a 39 year old African-American/Black Female was killed by police on 12/29/2010. Killings, 39, was shot after allegedly leading police on a car chase, San Leandro police Lt. Jeff Tudor said. The passenger in the car, Oakland resident Richard Lee III, 43, was arrested on suspicion of possession of a stolen vehicle and possession of stolen property",
         "year": "2010",
-        "age": "39",
+        "age": 39,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1824,7 +1824,7 @@
         "Census Block Code": "2008",
         "Description": "Jesse Enjaian, a 32 year old European-American/White Male was killed by police on 02/17/2017. Jesse Enjaian was apparently firing a rifle in a neighborhood and shot at police who arrived to investigate. He was shot and killed.",
         "year": "2017",
-        "age": "32",
+        "age": 32,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1858,7 +1858,7 @@
         "Census Block Code": "1013",
         "Description": "Terrance S. Silva, a 47 year old European-American/White Male was killed by police on 04/26/2013. An unnamed motorcyclist fleeing from police was killed after he drove into oncoming traffic, crashed into a guardrail and was thrown from the bike. He was pronounced dead at the scene.",
         "year": "2013",
-        "age": "47",
+        "age": 47,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1892,7 +1892,7 @@
         "Census Block Code": "3016",
         "Description": "Chaz Anthony Williams, a 29 year old African-American/Black Male was killed by police on 10/01/2011. Chaz Anthony Williams, BreeAnne Green and Adrian Ary were killed when their 1990 Buick LeSabre crashed while fleeing police after stealing alcohol from a San Leandro FoodMaxx.",
         "year": "2011",
-        "age": "29",
+        "age": 29,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1926,7 +1926,7 @@
         "Census Block Code": "2008",
         "Description": "Raymond Zack, a 52 year old European-American/White Male was killed by police on 05/30/2011. Raymond Zack, who reportedly suffered from mental illness, drowned an hour after wading into the San Francisco Bay as police, firefighters, and dozens of onlookers watched him slowly succumb to the chilly waters.",
         "year": "2011",
-        "age": "52",
+        "age": 52,
         "Place FIPS": "600562"
       },
       "geometry": {
@@ -1960,7 +1960,7 @@
         "Census Block Code": "2005",
         "Description": "Dynami McCree, a 33 year old African-American/Black Male was killed by police on 07/17/2007. Dynami McCree refused to remove a plastic bag full of suspected cocaine concealed in his buttocks and died after he removed and swallowed the contents while handcuffed in the back of a police car, police said.",
         "year": "2007",
-        "age": "33",
+        "age": 33,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -1994,7 +1994,7 @@
         "Census Block Code": "2012",
         "Description": "Sarah McNeil, a 29 year old African-American/Black Female was killed by police on 04/07/2006. Cleora Chrisman was killed when Sarah McNeil, a driver fleeing police, ran a red light and crashed into Chrisman's car in West Oakland. McNeil was also killed.",
         "year": "2006",
-        "age": "29",
+        "age": 29,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2028,7 +2028,7 @@
         "Census Block Code": "3016",
         "Description": "Adrian Ary, a 27 year old African-American/Black Male was killed by police on 10/01/2011. Chaz Anthony Williams, BreeAnne Green and Adrian Ary were killed when their 1990 Buick LeSabre crashed while fleeing police after stealing alcohol from a San Leandro FoodMaxx.",
         "year": "2011",
-        "age": "27",
+        "age": 27,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2062,7 +2062,7 @@
         "Census Block Code": "2014",
         "Description": "Andrew Moppin-Buckskin, a 20 year old Hispanic/Latino Male was killed by police on 12/31/2007. Moppin-Buckskin ran from his car after a traffic stop. Police said he was reaching for his waistband, although later no weapon was found.",
         "year": "2007",
-        "age": "20",
+        "age": 20,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2096,7 +2096,7 @@
         "Census Block Code": "3016",
         "Description": "BreeAnne Green, a 20 year old African-American/Black Female was killed by police on 10/01/2011. Chaz Anthony Williams, BreeAnne Green and Adrian Ary were killed when their 1990 Buick LeSabre crashed while fleeing police after stealing alcohol from a San Leandro FoodMaxx.",
         "year": "2011",
-        "age": "20",
+        "age": 20,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2130,7 +2130,7 @@
         "Census Block Code": "1022",
         "Description": "Jock'Lyante Quincy Adanandus Sr., a 27 year old African-American/Black Male was killed by police on 06/10/2006. Jocklyante Adanandus Sr. and his toddler son, Jocklyante Adanandus Jr., were killed when the elder Adanandus tried to evade a traffic stop by driving through a railroad crossing.",
         "year": "2006",
-        "age": "27",
+        "age": 27,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2164,7 +2164,7 @@
         "Census Block Code": "4024",
         "Description": "Gary King Jr., a 19 year old African-American/Black Male was killed by police on 09/20/2007. King was leaving a liquor store when he was approached for questioning about a murder. Officer said he felt a gun through King's clothes. King was tasered. Officer fired when he believed King was going for his weapon. Oakland paid $1.5 million in a wrongful death lawsuit.",
         "year": "2007",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2198,7 +2198,7 @@
         "Census Block Code": "3007",
         "Description": "Charles Hill, a 26 year old African-American/Black Male was killed by police on 01/28/2000. Officers Marcell Patterson and William A. Pappas shot and killed Charles Hill.",
         "year": "2000",
-        "age": "26",
+        "age": 26,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2232,7 +2232,7 @@
         "Census Block Code": "2008",
         "Description": "Antonio V. Mestas, a 19 year old African-American/Black Male was killed by police on 01/21/2014. Mestas led officers on a chase in a stolen SUV through east Oakland after they attempted to pull him over. Officers fired and hit Mestas after he fled the vehicle while holding a loaded handgun.",
         "year": "2014",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2266,7 +2266,7 @@
         "Census Block Code": "1022",
         "Description": "Jock'Lyante Quincy Adanandus Jr., a 3 year old African-American/Black Male was killed by police on 06/10/2006. Jocklyante Adanandus Sr. and his toddler son, Jocklyante Adanandus Jr., were killed when the elder Adanandus tried to evade a traffic stop by driving through a railroad crossing.",
         "year": "2006",
-        "age": "3",
+        "age": 3,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2300,7 +2300,7 @@
         "Census Block Code": "2004",
         "Description": "Glen Willis, a 47 year old African-American/Black Male was killed by police on 08/06/2003. police shot and killed Willis after he stabbed an officer several times in the back and arm. The police described him as mentally unstable. Willis' family told police he was a known schizophrenic and was not taking his medication.",
         "year": "2003",
-        "age": "47",
+        "age": 47,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2334,7 +2334,7 @@
         "Census Block Code": "2012",
         "Description": "Patrick Gaston, a 34 year old African-American/Black Male was killed by police on 11/10/2005. Patrick Gaston died during a struggle as police were arresting him on a drug sale charge.",
         "year": "2005",
-        "age": "34",
+        "age": 34,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2368,7 +2368,7 @@
         "Census Block Code": "2038",
         "Description": "Parnell Smith, a 36 year old African-American/Black Male was killed by police on 07/15/2009. Parnell Smith dropped a pistol on the ground and may not have fired it before two Oakland police officers shot him to death during a foot chase.",
         "year": "2009",
-        "age": "36",
+        "age": 36,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2402,7 +2402,7 @@
         "Census Block Code": "2002",
         "Description": "Fletcher Jackson, a 30 year old African-American/Black Male was killed by police on 05/18/2011. Police responded to a report of gang activity. When they arrived, they say that Jackson and another man emerged with weapons. They fired, killing both Jackson and the other man. Witnesses say neither man had a gun.",
         "year": "2011",
-        "age": "30",
+        "age": 30,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2436,7 +2436,7 @@
         "Census Block Code": "2001",
         "Description": "Terrance Mearis, a 20 year old African-American/Black Male was killed by police on 10/05/2003. Mearis was fatally shot by Oakland police officers after Mearis grabbed one of the officer's gun during a struggle.",
         "year": "2003",
-        "age": "20",
+        "age": 20,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2470,7 +2470,7 @@
         "Census Block Code": "3020",
         "Description": "Lesley Xavier Allen, a 21 year old African-American/Black Male was killed by police on 07/19/2008. Police shot and killed him after a chase into San Leandro.",
         "year": "2008",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "668084"
       },
       "geometry": {
@@ -2504,7 +2504,7 @@
         "Census Block Code": "1020",
         "Description": "Yuvette Henderson, a 38 year old African-American/Black Female was killed by police on 02/03/2015. Police chased a woman armed with a gun who was allegedly stealing from a store for about four blocks. They saw her with a gun and immediately opened fire, killing her at the scene.",
         "year": "2015",
-        "age": "38",
+        "age": 38,
         "Place FIPS": "622594"
       },
       "geometry": {
@@ -2538,7 +2538,7 @@
         "Census Block Code": "1016",
         "Description": "Ryan Lamont Hardy, a 28 year old African-American/Black Male was killed by police on 09/21/2004. Ryan Lamont Hardy died when the van he was driving crashed into a tree and caught fire during a police chase.",
         "year": "2004",
-        "age": "28",
+        "age": 28,
         "Place FIPS": "622594"
       },
       "geometry": {
@@ -2572,7 +2572,7 @@
         "Census Block Code": "3001",
         "Description": "Todd Anthony Perea, a 27 year old European-American/White Male was killed by police on 05/16/2009. Motorist Anthony Perea and pedestrian Floyd Ross Jr. were killed when homicide suspects being chased by police crashed into Perea's car, which then struck Ross.",
         "year": "2009",
-        "age": "27",
+        "age": 27,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2606,7 +2606,7 @@
         "Census Block Code": "3000",
         "Description": "Mark Aragon, a 32 year old Hispanic/Latino Male was killed by police on 11/04/2010. Connectis Guilton was reportedly fleeing from the CHP when his BMW collided with a SUV driven by Mark Aragon, killing both drivers.",
         "year": "2010",
-        "age": "32",
+        "age": 32,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2640,7 +2640,7 @@
         "Census Block Code": "5000",
         "Description": "Monica Lucky, a 41 year old African-American/Black Female was killed by police on 02/11/2007. Monica Lucky was killed when her Honda was struck by a Lincoln Continental driven by Kevin Jackson, 21, who was fleeing police.",
         "year": "2007",
-        "age": "41",
+        "age": 41,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2674,7 +2674,7 @@
         "Census Block Code": "1010",
         "Description": "Gregory Charles, a 50 year old African-American/Black Male was killed by police on 11/09/2003. Gregory Charles and Jody Perry were killed, and Charles' 7-year-old son was seriously injured, when a suspected drunken driver who was fleeing from police ran a red light and crashed into their car.",
         "year": "2003",
-        "age": "50",
+        "age": 50,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2708,7 +2708,7 @@
         "Census Block Code": "1002",
         "Description": "Guadalupe Manzo Ochoa, a 27 year old Hispanic/Latino Female was killed by police on 12/07/2014. Shot dead by San Leandro police after she allegedly rammed several police cars at the end of a chase.",
         "year": "2014",
-        "age": "27",
+        "age": 27,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2742,7 +2742,7 @@
         "Census Block Code": "3013",
         "Description": "Floyd Ross Jr., a 41 year old Race unspecified Male was killed by police on 05/16/2009. Motorist Anthony Perea and pedestrian Floyd Ross Jr. were killed when homicide suspects being chased by police crashed into Perea's car, which then struck Ross.",
         "year": "2009",
-        "age": "41",
+        "age": 41,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2776,7 +2776,7 @@
         "Census Block Code": "3000",
         "Description": "Diallo S. Neal Sr., a 33 year old African-American/Black Male was killed by police on 10/10/2005. According to a quickly completed police investigation, Diallo S. Neal Sr. was killed when he lost control of his motorcycle and crashed into a bus bench, though numerous witnesses said they saw a CHP motorcycle officer chasing and possibly running him off the road just before the crash.",
         "year": "2005",
-        "age": "33",
+        "age": 33,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2810,7 +2810,7 @@
         "Census Block Code": "2002",
         "Description": "John Sloan, a 23 year old African-American/Black Male was killed by police on 05/18/2011. John Sloan was shot and killed after he, Davon Jackson and a third man were stopped by Oakland police. Police said the men were armed and confrontational. Moments later, police shot Davon Jackson in the side while he sat in the driver's seat and John Sloan in the back of the head while he ran away.",
         "year": "2011",
-        "age": "23",
+        "age": 23,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2844,7 +2844,7 @@
         "Census Block Code": "2003",
         "Description": "Bernard Peters Jr., a 22 year old African-American/Black Male was killed by police on 05/29/2013. Police received information that someone in a vehicle was armed with a gun. When they tried to pull the vehicle over, the driver sped away. After pursuit, the vehicle stopped and the three men inside fled in different directions. Peters was shot and killed. A handgun stolen from Georgia was discovered nearby.",
         "year": "2013",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2878,7 +2878,7 @@
         "Census Block Code": "3072",
         "Description": "Martin Perez, a 22 year old Hispanic/Latino Male was killed by police on 08/17/2012. Martin Perez was killed after he crashed his car near the Port of Oakland while fleeing the CHP.",
         "year": "2012",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2912,7 +2912,7 @@
         "Census Block Code": "1010",
         "Description": "Kim Saelio, a 22 year old Asian/Pacific Islander Male was killed by police on 06/21/2006. Saelio was shot as he fled to evade arrest on a murder warrant. During the flight, his vehicle struck an Oakland Police Car. Two officers fired, but hit Saelio.",
         "year": "2006",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2946,7 +2946,7 @@
         "Census Block Code": "6015",
         "Description": "Kenneth Ross, a 18 year old African-American/Black Male was killed by police on 12/03/2009. Ross was killed when he pulled his gun on police as they tried to question him in the stairwell of an apartment complex.",
         "year": "2009",
-        "age": "18",
+        "age": 18,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -2980,7 +2980,7 @@
         "Census Block Code": "3001",
         "Description": "Alan Blueford, a 18 year old African-American/Black Male was killed by police on 05/06/2012. An Oakland police officer had chased Alan Blueford, 18, for three blocks through a darkened neighborhood before he tripped and fell along a home's chain-link fence. The officer shot Blueford three times in the chest, killing him. He said he believed Blueford had a gun, and one was recovered near the body.",
         "year": "2012",
-        "age": "18",
+        "age": 18,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3014,7 +3014,7 @@
         "Census Block Code": "1009",
         "Description": "Derrick Jones, a 37 year old African-American/Black Male was killed by police on 11/08/2010. Police said Jones was shot after fleeing from officers questioning him regarding a domestic dispute. The interrogation took place inside the Kwik Cuts Barbershop, which Jones owned.",
         "year": "2010",
-        "age": "37",
+        "age": 37,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3048,7 +3048,7 @@
         "Census Block Code": "4005",
         "Description": "Jose Munguia, a 21 year old Hispanic/Latino Male was killed by police on 01/21/2014. Officers pulled over Munguia's SUV for not having license plates, leading the 21-year-old to flee with a loaded handgun. Officers with a police dog were able to catch up to Munguia, and shot him after he pointed his gun at them.",
         "year": "2014",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3082,7 +3082,7 @@
         "Census Block Code": "3007",
         "Description": "Bien Cam Tran, a 58 year old Asian/Pacific Islander Male was killed by police on 08/30/2014. Pedestrian Bien Cam Tran was struck by a black-and-white Ford Crown Victoria driven by officer Devin Underwood while Tran was in a crosswalk at about 1:30 p.m. near Lake Merritt.",
         "year": "2014",
-        "age": "58",
+        "age": 58,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3116,7 +3116,7 @@
         "Census Block Code": "2001",
         "Description": "Broderick Huggins, a 32 year old African-American/Black Male was killed by police on 03/30/2013. Huggins, from Modesto, was fatally shot by an Alameda County sheriff's deputy after he refused to get out of the vehicle and drove off, dragging one of those deputies, who had been trying to undo Huggins' seat belt.",
         "year": "2013",
-        "age": "32",
+        "age": 32,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3150,7 +3150,7 @@
         "Census Block Code": "2012",
         "Description": "Cleora Chrisman, a 67 year old African-American/Black Female was killed by police on 04/07/2006. Cleora Chrisman was killed when Sarah McNeil, a driver fleeing police, ran a red light and crashed into Chrisman's car in West Oakland. McNeil was also killed.",
         "year": "2006",
-        "age": "67",
+        "age": 67,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3184,7 +3184,7 @@
         "Census Block Code": "4007",
         "Description": "Priscilla Johnson, a 45 year old African-American/Black Female was killed by police on 05/23/2014. An unnamed woman was killed when she was ejected from a car fleeing from police. At about 8:50 p.m., a man had reportedly tried to buy an item at a San Leandro Radio Shack with counterfeit money. When a clerk confronted him, the man allegedly threatened to harm the clerk and fled the store with the item. The clerk called police. An officer saw the car leaving the scene and a high-speed chase began. The driver turned north onto San Leandro Boulevard and police said the officer lost sight of the car and stopped chasing it. Soon afterward, police reportedly found the car had crashed into a building on San Leandro Boulevard at Apricot Street. The woman died at the scene.",
         "year": "2014",
-        "age": "45",
+        "age": 45,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3218,7 +3218,7 @@
         "Census Block Code": "1025",
         "Description": "Joshua Russell, a 19 year old European-American/White Male was killed by police on 03/27/2002. A police sergeant Gonzales shot and killed Joshua Russell, 19 after Russell and an accomplice allegedly tried to rob a man at gunpoint in the parking lot of a Burger King.",
         "year": "2002",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3252,7 +3252,7 @@
         "Census Block Code": "5007",
         "Description": "Addiel Meza, a 21 year old Hispanic/Latino Male was killed by police on 02/03/2007. Addiel had been firing a gun on an East Oakland street. He was shot dead by a police officer who responded.",
         "year": "2007",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3286,7 +3286,7 @@
         "Census Block Code": "1004",
         "Description": "Clinton Grandy, a 62 year old African-American/Black Male was killed by police on 08/27/2003. Clinton Grandy was killed when his Ford Escort was struck by an allegedly stolen Buick being chased by police.",
         "year": "2003",
-        "age": "62",
+        "age": 62,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3320,7 +3320,7 @@
         "Census Block Code": "3000",
         "Description": "Connectis Guiton, a 19 year old African-American/Black Male was killed by police on 11/04/2010. Connectis Guilton was reportedly fleeing from the CHP when his BMW collided with a SUV driven by Mark Aragon, killing both drivers.",
         "year": "2010",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3354,7 +3354,7 @@
         "Census Block Code": "2009",
         "Description": "Marquez Warren, a 19 year old Race unspecified Male was killed by police on 02/01/2017. An off-duty Contra Costa County sheriff's deputy shot and killed a home invasion robbery suspect. Officers responded to a call of a home invasion at around 10:44 a.m., police said. It was not disclosed why an off-duty deputy was on the scene.",
         "year": "2017",
-        "age": "19",
+        "age": 19,
         "Place FIPS": "600562"
       },
       "geometry": {
@@ -3388,7 +3388,7 @@
         "Census Block Code": "2013",
         "Description": "Salvador Nieves Jr., a 21 year old Hispanic/Latino Male was killed by police on 05/27/2006. Jessica Castaneda-Rodriguez and Salvador Nieves Jr. were killed when a driver being chased by police ran a red light and crashed into their 2005 Nissan Sentra.",
         "year": "2006",
-        "age": "21",
+        "age": 21,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3422,7 +3422,7 @@
         "Census Block Code": "1010",
         "Description": "Matthew Cicelski, a 30 year old Race unspecified Male was killed by police on 01/29/2011. Cicelski, clad in camouflage clothing, had been acting erratically outside ex-girlfriend's home. He pointed a replica assault rifle at them.",
         "year": "2011",
-        "age": "30",
+        "age": 30,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3456,7 +3456,7 @@
         "Census Block Code": "2050",
         "Description": "Jason Perez, a 20 year old Hispanic/Latino Male was killed by police on 01/30/2006. Jason Perez was killed when he crashed into the rear of another car while being chased by police.",
         "year": "2006",
-        "age": "20",
+        "age": 20,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3490,7 +3490,7 @@
         "Census Block Code": "1007",
         "Description": "Lovelle Mixon, a 26 year old African-American/Black Male was killed by police on 03/21/2009. Lovelle Mixon shot and killed two Oakland police officers during a traffic stop, then killed two more when SWAT team officers attempted to apprehend him two hours later. Mixon was killed in a barrage of gunfire as the officers returned fire.",
         "year": "2009",
-        "age": "26",
+        "age": 26,
         "Place FIPS": "653000"
       },
       "geometry": {
@@ -3524,7 +3524,7 @@
         "Census Block Code": "5000",
         "Description": "U’Kendra Johnson, a 22 year old African-American/Black Female was killed by police on 02/16/2002. U'Kendra Johnson was killed when her car was broadsided by a Buick fleeing from police.",
         "year": "2002",
-        "age": "22",
+        "age": 22,
         "Place FIPS": "653000"
       },
       "geometry": {
