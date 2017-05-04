@@ -1658,7 +1658,11 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center.",
+              "image": "img/legends/legend20.png"
+              },
+            {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -1840,7 +1844,11 @@
 
               },
             {
-              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center.",
+              "image": "img/legends/legend21.png"
+              },
+            {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2021,9 +2029,11 @@
               "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. ",
+              "image": "img/legends/legend22.png"
             },
             {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2204,9 +2214,11 @@
               "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. ",
+              "image": "img/legends/legend23.png"
             },
             {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2391,9 +2403,11 @@
               "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. ",
+              "image": "img/legends/legend25.png"
             },
             {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2574,9 +2588,11 @@
               "title": "Aleppo Case Study (scroll to view all questions)"
               },
             {
-              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. <br /><br />1. Using the five potential sites and the casualty distribution depicted in the interactive map, determine which location would be best suited.<br /><br /> "
+              "ask": "International organizations like the United Nations Refugee Agency (UNHCR) have actively worked to provide aid and emergency relief to Syrians in cities like Aleppo. UNHCR would like to place an emergency relief center within Aleppo and have proposed five potential locations for the center. ",
+              "image": "img/legends/legend26.png"
             },
             {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2757,7 +2773,11 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center.",
+              "image": "img/legends/legend27.png"
+              },
+            {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
@@ -2938,7 +2958,11 @@
               "title": "Oakland Case Study (scroll to view all questions)"
               },
             {
-              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center. <br /><br />1. Using the five potential sites and the information provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
+              "ask": "In order to monitor interactions between police and Oakland residents, the American Civil Liberties Union (ACLU) is developing plans for a police oversight center in the city. This center will allow for the quick deployment of legal observers to incidents involving the police. These observers will be called on to act as witnesses in legal cases while generating valuable data for the city to assess law enforcement practices. The ACLU has proposed potential locations for the center.",
+              "image": "img/legends/legend28.png"
+              },
+            {
+              "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
                 "required": false,
                 "autoadvance": false,
