@@ -5048,14 +5048,29 @@
         {
           "blocks": [
             {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
+              "title": "Map Preference Survey",
+              "ask": "Which <strong>pop up</strong> do you prefer?",
+              "input": {
+                "required": false,
+                "type": "radios",
+                "options": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  }
+                ]
+              }
+            },
+            {
+              "image": "img/popupPreference.png"
             }
           ],
           "buttons": [
-            "next"
+            "next",
+            "back",
+            "save"
           ]
         }
       ]

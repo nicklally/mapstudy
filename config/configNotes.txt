@@ -48,7 +48,7 @@ MAP COMBO PREFERENCES
 44 Map preference (all 8 maps)
 45 Map relatability (all 8 maps)
 46 Base map preference (2 maps)
-47
+47 Pop up preference (2 maps)
 48
 49
 
