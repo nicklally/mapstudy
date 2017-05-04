@@ -24,7 +24,8 @@ INTRO
 5 Part 1
 6 Part 2
 7 Part 3
-8-9
+8 Exit Survey
+9
 
 POINTS		ICONS			CHOROPLETH	PROP
 10 IA1+		15 IIA1		20 IIIA1+		25 IVA1
@@ -56,8 +57,8 @@ EXIT SURVEY
 50 Background
 51 Familiarity
 52 Interest
-53 Thanks
-54
+53 Political beliefs
+54 Thank you
 
 */
 
