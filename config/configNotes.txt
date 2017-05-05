@@ -62,13 +62,13 @@ EXIT SURVEY
 
 */
 
-Group1: I A1+(10,35,37,36) B2(13,30,32,31)
-Group2: I B1(12,30,32,31) A2+(11,35,37,36)
-Group3: II B2+(18,35,37,36) A1(15,30,32,31)
-Group4: II A2(16,30,32,31) B1+(17,35,37,36)
-Group5: III A1+(20,35,37,36) B2(23,30,32,31)
-Group6: III B1(22,30,32,31) A2+(21,35,37,36)
-Group7: IV B2+(28,35,37,36) A1(25,30,32,31)
-Group8: IV A2(26,30,32,31) B1+(27,35,37,36)
+Group1: I A1+(10) B2(13)
+Group2: I B1(12) A2+(11)
+Group3: II B2+(18) A1(15)
+Group4: II A2(16) B1+(17)
+Group5: III A1+(20) B2(23)
+Group6: III B1(22) A2+(21)
+Group7: IV B2+(28) A1(25)
+Group8: IV A2(26) B1+(27)
 
 //all pages with content in order
