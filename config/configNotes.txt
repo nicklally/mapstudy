@@ -46,12 +46,12 @@ MAP COMBO PREFERENCES
 41 Point relatability (4 maps)
 42 Aggregated preference (4 maps)
 43 Aggregated relatability (4 maps)
-44 Map preference (all 8 maps)
-45 Map relatability (all 8 maps)
-46 Base map preference (2 maps)
-47 Pop up preference (2 maps)
-48
-49
+44 Representation and Satellite preference (4 maps)
+45 Representation and Satellite relatability (4 maps)
+46 Representation and Gray preference (4 maps)
+47 Representation and Gray preference (4 maps)
+48 Base map preference (2 maps)
+49 Pop up preference (2 maps)
 
 EXIT SURVEY
 50 Background

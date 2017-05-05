@@ -4767,7 +4767,7 @@
           "blocks": [
             {
               "title": "Map Preference Survey",
-              "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
+              "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
                 "type": "rank",
@@ -4806,7 +4806,7 @@
           "blocks": [
             {
               "title": "Map Preference Survey",
-              "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
+              "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
                 "type": "rank",
@@ -4842,7 +4842,7 @@
           "blocks": [
             {
               "title": "Map Preference Survey",
-              "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
+              "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
                 "type": "rank",
@@ -4878,7 +4878,7 @@
           "blocks": [
             {
               "title": "Map Preference Survey",
-              "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
+              "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
                 "type": "rank",
@@ -4914,7 +4914,7 @@
           "blocks": [
             {
               "title": "Map Preference Survey",
-              "ask": "Rank the following maps based on <i>preference</i>. Drag each block to reorder.<br />",
+              "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
                 "required": false,
                 "type": "rank",
@@ -4930,74 +4930,10 @@
                   },
                   {
                     "text": "Map 4"
-                  },
-                  {
-                    "text": "Map 5"
-                  },
-                  {
-                    "text": "Map 6"
-                  },
-                  {
-                    "text": "Map 7"
-                  },
-                  {
-                    "text": "Map 8"
                   }
                 ]
-              }
-            },
-            {
-              "image": "img/Map_pref.png"
-            }
-          ],
-          "buttons": [
-            "next",
-            "back"          ]
-        }
-      ]
-    },
-     {
-      "page": 45,
-      "fullpage": true,
-      "sets": [
-        {
-          "blocks": [
-            {
-              "title": "Map Preference Survey",
-              "ask": "Rank the following maps based on <i>relatability</i>. Drag each block to reorder.<br />",
-              "input": {
-                "required": false,
-                "type": "rank",
-                "items": [
-                  {
-                    "text": "Map 1"
-                  },
-                  {
-                    "text": "Map 2"
-                  },
-                  {
-                    "text": "Map 3"
-                  },
-                  {
-                    "text": "Map 4"
-                  },
-                  {
-                    "text": "Map 5"
-                  },
-                  {
-                    "text": "Map 6"
-                  },
-                  {
-                    "text": "Map 7"
-                  },
-                  {
-                    "text": "Map 8"
-                  }
-                ]
-              }
-            },
-            {
-              "image": "img/Map_pref.png"
+              },
+              "image": "img/repSatPreference.png"
             }
           ],
           "buttons": [
@@ -5007,7 +4943,115 @@
       ]
     },
     {
+      "page": 45,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
+              "input": {
+                "required": false,
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "image": "img/repSatPreference.png"
+            }
+          ],
+          "buttons": [
+            "next",
+            "back"          ]
+        }
+      ]
+    },
+        {
       "page": 46,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
+              "input": {
+                "required": false,
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "image": "img/repGrayPreference.png"
+            }
+          ],
+          "buttons": [
+            "next",
+            "back"          ]
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Map Preference Survey",
+              "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
+              "input": {
+                "required": false,
+                "type": "rank",
+                "items": [
+                  {
+                    "text": "Map 1"
+                  },
+                  {
+                    "text": "Map 2"
+                  },
+                  {
+                    "text": "Map 3"
+                  },
+                  {
+                    "text": "Map 4"
+                  }
+                ]
+              },
+              "image": "img/repGrayPreference.png"
+            }
+          ],
+          "buttons": [
+            "next",
+            "back"          ]
+        }
+      ]
+    },
+    {
+      "page": 48,
       "fullpage": true,
       "sets": [
         {
@@ -5039,14 +5083,14 @@
       ]
     },
     {
-      "page": 47,
+      "page": 49,
       "fullpage": true,
       "sets": [
         {
           "blocks": [
             {
               "title": "Map Preference Survey",
-              "ask": "Which <i>pop up layout</i> do you prefer?",
+              "ask": "Which <strong><i>pop up layout</i></strong> do you prefer?",
               "input": {
                 "required": false,
                 "type": "radios",
@@ -5062,44 +5106,6 @@
             },
             {
               "image": "img/popupPreference.png"
-            }
-          ],
-          "buttons": [
-            "next",
-            "back"          ]
-        }
-      ]
-    },
-    {
-      "page": 48,
-      "fullpage": true,
-      "sets": [
-        {
-          "blocks": [
-            {
-              "label": "MAP PREFERENCE",
-              "title": "CHOOSE A COMBO",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
-            }
-          ],
-          "buttons": [
-            "next"
-          ]
-        }
-      ]
-    },
-    {
-      "page": 49,
-      "fullpage": true,
-      "sets": [
-        {
-          "blocks": [
-            {
-              "label": "MAP PREFERENCE",
-              "title": "Map Preference Exercise",
-              "ask": "Text",
-              "description": "DESCRIPTION TEXT"
             }
           ],
           "buttons": [
