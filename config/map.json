@@ -85,7 +85,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -104,7 +104,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -123,7 +123,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -142,7 +142,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -161,7 +161,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -271,7 +271,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -290,7 +290,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -309,7 +309,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -328,7 +328,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -347,7 +347,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -457,7 +457,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -476,7 +476,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -495,7 +495,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -514,7 +514,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -533,7 +533,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -643,7 +643,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -662,7 +662,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -681,7 +681,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -700,7 +700,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -719,7 +719,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -833,7 +833,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -852,7 +852,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -871,7 +871,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -890,7 +890,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -909,7 +909,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1017,7 +1017,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1036,7 +1036,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1055,7 +1055,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1074,7 +1074,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1093,7 +1093,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1200,7 +1200,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1219,7 +1219,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1238,7 +1238,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1257,7 +1257,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1276,7 +1276,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1380,7 +1380,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1399,7 +1399,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1418,7 +1418,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1437,7 +1437,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1456,7 +1456,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1573,7 +1573,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1592,7 +1592,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1611,7 +1611,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1630,7 +1630,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1649,7 +1649,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1763,7 +1763,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1782,7 +1782,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1801,7 +1801,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1820,7 +1820,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1839,7 +1839,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1949,7 +1949,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1968,7 +1968,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -1987,7 +1987,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2006,7 +2006,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2025,7 +2025,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2135,7 +2135,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2154,7 +2154,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2173,7 +2173,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2192,7 +2192,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2211,7 +2211,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2328,7 +2328,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2347,7 +2347,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2366,7 +2366,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2385,7 +2385,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2404,7 +2404,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2518,7 +2518,7 @@
 					"source": "data/aleppoSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2537,7 +2537,7 @@
 					"source": "data/aleppoSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2556,7 +2556,7 @@
 					"source": "data/aleppoSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2575,7 +2575,7 @@
 					"source": "data/aleppoSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2594,7 +2594,7 @@
 					"source": "data/aleppoSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2704,7 +2704,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2723,7 +2723,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2742,7 +2742,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2761,7 +2761,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2780,7 +2780,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2890,7 +2890,7 @@
 					"source": "data/oakSite1.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2909,7 +2909,7 @@
 					"source": "data/oakSite2.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2928,7 +2928,7 @@
 					"source": "data/oakSite3.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2947,7 +2947,7 @@
 					"source": "data/oakSite4.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
@@ -2966,7 +2966,7 @@
 					"source": "data/oakSite5.geojson",
 					"expressedAttribute": "id",
 					"displayAttributes": [
-						"SiteNumber"
+						"Site"
 					],
 					"renderOnLoad": true,
           "layerOptions": {
