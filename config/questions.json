@@ -189,13 +189,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -207,7 +207,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -216,13 +216,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -234,7 +234,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -243,13 +243,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -261,7 +261,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -270,13 +270,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -288,7 +288,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -297,13 +297,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -315,7 +315,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -372,13 +372,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -390,7 +390,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -399,13 +399,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -417,7 +417,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -426,13 +426,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -444,7 +444,34 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+            { 
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -453,13 +480,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -471,34 +498,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
-                  }
-                ],
-                "items": [
-                  {}
-                ]
-              }
-            },
-            {
-              "ask": "Site 5",
-              "input": {
-                "required": false,
-                "type": "matrix",
-                "options": [
-                  {
-                    "text": "1–Least Suitable"
-                  },
-                  {
-                    "text": "2"
-                  },
-                  {
-                    "text": "3"
-                  },
-                  {
-                    "text": "4"
-                  },
-                  {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -558,13 +558,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -576,7 +576,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -585,13 +585,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -603,7 +603,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -612,13 +612,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -630,7 +630,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -639,13 +639,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -657,7 +657,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -666,13 +666,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -684,7 +684,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -744,13 +744,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -762,7 +762,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -771,13 +771,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -789,7 +789,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -798,13 +798,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -816,7 +816,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -825,13 +825,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -843,7 +843,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -852,13 +852,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -870,7 +870,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -933,13 +933,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -951,7 +951,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -960,13 +960,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -978,7 +978,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -987,13 +987,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1005,7 +1005,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1014,13 +1014,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1032,7 +1032,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1041,13 +1041,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1059,7 +1059,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1118,13 +1118,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1136,7 +1136,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1145,13 +1145,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1163,7 +1163,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1172,13 +1172,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1190,7 +1190,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1199,13 +1199,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1217,7 +1217,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1226,13 +1226,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1244,7 +1244,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1301,13 +1301,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1319,7 +1319,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1328,13 +1328,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1346,7 +1346,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1355,13 +1355,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1373,7 +1373,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1382,13 +1382,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1400,7 +1400,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1409,13 +1409,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1427,7 +1427,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1484,13 +1484,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1 ",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1502,7 +1502,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1511,13 +1511,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1529,7 +1529,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1538,13 +1538,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1556,7 +1556,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1565,13 +1565,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1583,7 +1583,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1592,13 +1592,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1610,7 +1610,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1671,13 +1671,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1689,7 +1689,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1698,13 +1698,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1716,7 +1716,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1725,13 +1725,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1743,7 +1743,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1752,13 +1752,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1770,7 +1770,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1779,13 +1779,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1797,7 +1797,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1855,13 +1855,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1873,7 +1873,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1882,13 +1882,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1900,7 +1900,34 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+            { 
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1909,13 +1936,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1927,7 +1954,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -1936,13 +1963,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -1954,34 +1981,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
-                  }
-                ],
-                "items": [
-                  {}
-                ]
-              }
-            },
-            {
-              "ask": "Site 5",
-              "input": {
-                "required": false,
-                "type": "matrix",
-                "options": [
-                  {
-                    "text": "1–Least Suitable"
-                  },
-                  {
-                    "text": "2"
-                  },
-                  {
-                    "text": "3"
-                  },
-                  {
-                    "text": "4"
-                  },
-                  {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2038,13 +2038,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2056,7 +2056,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2065,13 +2065,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2083,7 +2083,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2092,13 +2092,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2110,7 +2110,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2119,13 +2119,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2137,7 +2137,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2146,13 +2146,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2164,7 +2164,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2221,13 +2221,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2239,7 +2239,34 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+            { 
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2248,13 +2275,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2266,7 +2293,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2275,13 +2302,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2293,7 +2320,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2302,13 +2329,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2320,34 +2347,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
-                  }
-                ],
-                "items": [
-                  {}
-                ]
-              }
-            },
-            {
-              "ask": "Site 5",
-              "input": {
-                "required": false,
-                "type": "matrix",
-                "options": [
-                  {
-                    "text": "1–Least Suitable"
-                  },
-                  {
-                    "text": "2"
-                  },
-                  {
-                    "text": "3"
-                  },
-                  {
-                    "text": "4"
-                  },
-                  {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2408,13 +2408,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
-                   {
-                    "text": "1–Least Suitable"
+                  {
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2426,7 +2426,34 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+            { 
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2435,13 +2462,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2453,7 +2480,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2462,13 +2489,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2480,7 +2507,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2489,13 +2516,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2507,34 +2534,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
-                  }
-                ],
-                "items": [
-                  {}
-                ]
-              }
-            },
-            {
-              "ask": "Site 5",
-              "input": {
-                "required": false,
-                "type": "matrix",
-                "options": [
-                  {
-                    "text": "1–Least Suitable"
-                  },
-                  {
-                    "text": "2"
-                  },
-                  {
-                    "text": "3"
-                  },
-                  {
-                    "text": "4"
-                  },
-                  {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2591,13 +2591,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2609,7 +2609,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2618,13 +2618,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2636,7 +2636,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2645,13 +2645,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2663,7 +2663,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2672,13 +2672,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2690,7 +2690,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2699,13 +2699,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2717,7 +2717,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2774,13 +2774,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2792,7 +2792,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2801,13 +2801,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2819,7 +2819,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2828,13 +2828,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2846,7 +2846,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2855,13 +2855,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2873,7 +2873,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2882,13 +2882,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2900,7 +2900,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2957,13 +2957,13 @@
               "ask": "2. Rank each potential site from least suitable to most suitable. "
             },
             {
-              "ask": "Site 1",
+              "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -2975,7 +2975,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -2984,13 +2984,13 @@
               }
             },
             {
-              "ask": "Site 2",
+              "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -3002,7 +3002,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3011,13 +3011,13 @@
               }
             },
             {
-              "ask": "Site 3",
+              "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -3029,7 +3029,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3038,13 +3038,13 @@
               }
             },
             {
-              "ask": "Site 4",
+              "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -3056,7 +3056,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3065,13 +3065,13 @@
               }
             },
             {
-              "ask": "Site 5",
+              "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Least Suitable"
+                    "text": "1"
                   },
                   {
                     "text": "2"
@@ -3083,7 +3083,7 @@
                     "text": "4"
                   },
                   {
-                    "text": "5-Most Suitable"
+                    "text": "5"
                   }
                 ],
                 "items": [
