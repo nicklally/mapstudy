@@ -5806,7 +5806,16 @@
       "blocks": [
         {
           "title": "Thank you for participating!",
-          "ask": "Please use the following unique code to confirm your particiapation in this study: <strong>XY374M</strong>"
+          "ask": "Your response has been recorded. To receive your payment, please enter the following code in the submission box on Turk."
+          },
+        {
+          "ask": "<strong>Confirmation Code: XY374M</strong>"
+        },
+        {
+          "ask": "We will send your payment within one week."
+        },
+        {
+          "ask": "Please close your browser to exit."
         }
       ]
     }
