@@ -83,7 +83,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -102,7 +102,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -121,7 +121,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -140,7 +140,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -159,7 +159,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -269,7 +269,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -288,7 +288,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -307,7 +307,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -326,7 +326,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -345,7 +345,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -455,7 +455,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -474,7 +474,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -493,7 +493,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -512,7 +512,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -531,7 +531,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -641,7 +641,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -660,7 +660,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -679,7 +679,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -698,7 +698,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -717,7 +717,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -831,7 +831,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -850,7 +850,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -869,7 +869,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -888,7 +888,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -907,7 +907,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1015,7 +1015,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1034,7 +1034,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1053,7 +1053,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1072,7 +1072,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1091,7 +1091,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1198,7 +1198,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1217,7 +1217,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1236,7 +1236,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1255,7 +1255,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1274,7 +1274,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1378,7 +1378,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1397,7 +1397,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1416,7 +1416,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1435,7 +1435,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1454,7 +1454,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1571,7 +1571,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1590,7 +1590,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1609,7 +1609,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1628,7 +1628,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1647,7 +1647,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1761,7 +1761,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1780,7 +1780,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1799,7 +1799,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1818,7 +1818,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1837,7 +1837,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1947,7 +1947,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1966,7 +1966,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -1985,7 +1985,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2004,7 +2004,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2023,7 +2023,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2133,7 +2133,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2152,7 +2152,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2171,7 +2171,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2190,7 +2190,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2209,7 +2209,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2326,7 +2326,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2345,7 +2345,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2364,7 +2364,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2383,7 +2383,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2402,7 +2402,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2516,7 +2516,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2535,7 +2535,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2554,7 +2554,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2573,7 +2573,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2592,7 +2592,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/aleppoSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2702,7 +2702,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2721,7 +2721,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2740,7 +2740,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2759,7 +2759,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2778,7 +2778,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2888,7 +2888,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite1.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2907,7 +2907,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite2.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2926,7 +2926,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite3.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2945,7 +2945,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite4.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
@@ -2964,7 +2964,7 @@
         {
 					"name": "emergency locations",
 					"source": "data/oakSite5.geojson",
-					"expressedAttribute": "id",
+					"expressedAttribute": "Id",
 					"displayAttributes": [
 						"Site"
 					],
