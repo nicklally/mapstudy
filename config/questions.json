@@ -5311,7 +5311,7 @@
         "blocks": [
           {
             "title": "Exit Survey",
-            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics:",
+            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics. (1 = Slightly Familiar and 5 = Extremely Familiar)",
             "input": {
               "type": "matrix",
               "items": [
@@ -5342,7 +5342,7 @@
               ],
               "options": [
                 {
-                  "text": "1–Unfamiliar"
+                  "text": "1"
                 },
                 {
                   "text": "2"
@@ -5354,13 +5354,13 @@
                   "text": "4"
                 },
                 {
-                  "text": "5–Very familiar"
+                  "text": "5"
                 }
               ]
             }
           },
           {
-            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics:",
+            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics. (1 = Slightly Familiar and 5 = Extremely Familiar)",
             "input": {
               "type": "matrix",
               "items": [
@@ -5371,7 +5371,10 @@
                   "text": "The internet"
                 },
                 {
-                  "text": "Map design"
+                  "text": "News media"
+                },
+                {
+                  "text": "Maps"
                 },
                 {
                   "text": "Geography"
@@ -5379,7 +5382,7 @@
               ],
               "options": [
                 {
-                  "text": "1-Unfamiliar"
+                  "text": "1"
                 },
                 {
                   "text": "2"
@@ -5391,7 +5394,7 @@
                   "text": "4"
                 },
                 {
-                  "text": "5-Very familiar"
+                  "text": "5"
                 }
               ]
             }
@@ -5411,7 +5414,7 @@
       "blocks": [
         {
           "title": "Exit Survey",
-          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics:",
+          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics. (1 = Slightly Interested and 5 = Extremely Interested)",
           "input": {
             "type": "matrix",
             "items": [
@@ -5441,26 +5444,26 @@
               }
             ],
             "options": [
-              {
-                "text": "1–Uninterested"
-              },
-              {
-                "text": "2"
-              },
-              {
-                "text": "3"
-              },
-              {
-                "text": "4"
-              },
-              {
-                "text": "5–Very Interested"
-              }
+                {
+                  "text": "1"
+                },
+                {
+                  "text": "2"
+                },
+                {
+                  "text": "3"
+                },
+                {
+                  "text": "4"
+                },
+                {
+                  "text": "5"
+                }
             ]
           }
         },
         {
-          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics:",
+          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics. (1 = Slightly Interested and 5 = Extremely Interested)",
           "input": {
             "type": "matrix",
             "items": [
@@ -5471,28 +5474,31 @@
                 "text": "The internet"
               },
               {
-                "text": "Map design"
+                  "text": "News media"
+                },
+              {
+                "text": "Maps"
               },
               {
                 "text": "geography"
               }
             ],
             "options": [
-              {
-                "text": "1-Uninterested"
-              },
-              {
-                "text": "2"
-              },
-              {
-                "text": "3"
-              },
-              {
-                "text": "4"
-              },
-              {
-                "text": "5-Very Interested"
-              }
+                {
+                  "text": "1"
+                },
+                {
+                  "text": "2"
+                },
+                {
+                  "text": "3"
+                },
+                {
+                  "text": "4"
+                },
+                {
+                  "text": "5"
+                }
             ]
           }
         }
@@ -5515,25 +5521,25 @@
           "ask": "Please rank the following:"
           },
         {
-              "ask": "To what degree is racism a problem in the United States?",
+              "ask": "Should the US create new programs to combat <i>racial inequities</i>?",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1–Disagree\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3-Neutral"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5–Agree"
                   }
                 ],
                 "items": [
@@ -5542,25 +5548,25 @@
               }
         },
         {
-              "ask": "To what degree is government funding for public education a problem?",
+              "ask": "Should the US decrease funding for existing programs that combat <i>racial inequities</i>?",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1–Disagree\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3-Neutral"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5–Agree"
                   }
                 ],
                 "items": [
@@ -5569,25 +5575,25 @@
               }
         },
         {
-              "ask": "To what degree is immigration a problem in the United States?",
+              "ask": "Should the US create new social programs for <i>incoming immigrants</i>?",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1–Disagree\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3-Neutral"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5–Agree"
                   }
                 ],
                 "items": [
@@ -5596,60 +5602,194 @@
               }
         },
         {
-              "ask": "To what degree is government funding for the military and national security a problem?",
+              "ask": "Should the US decrease funding for existing social programs that help <i>incoming immigrants</i>?",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1–Disagree\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3-Neutral"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5–Agree"
                   }
                 ],
                 "items": [
                   {}
                 ]
               }
-        }, 
+        },
         {
-              "ask": "To what degree is government funding for the welfare benefits a problem?",
+              "ask": "Should the US create new programs for <i>national security and military</i>?",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1–Disagree\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3-Neutral"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5–Agree"
                   }
                 ],
                 "items": [
                   {}
                 ]
               }
-        }  
-
+        },
+        {
+              "ask": "Should the US decrease funding for existing <i>national security and military</i> programs?",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1–Disagree\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3-Neutral"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5–Agree"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+        },
+        {
+              "ask": "Should the US create new programs for <i>social welfare</i>?",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1–Disagree\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3-Neutral"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5–Agree"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+        },
+        {
+              "ask": "Should the US decrease funding for existing <i>social welfare</i> programs?",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1–Disagree\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3-Neutral"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5–Agree"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+        },
+        {
+              "ask": "Should the US create new programs for <i>environmental protection</i>?",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1–Disagree\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3-Neutral"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5–Agree"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+        },
+        {
+              "ask": "Should the US decrease funding for <i>environmental protection</i> programs?",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1–Disagree\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3-Neutral"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5–Agree"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+        }
       ],
       "buttons": [
         "back",
