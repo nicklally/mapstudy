@@ -31,7 +31,7 @@
       "page": 10,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -217,7 +217,7 @@
       "page": 11,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -403,7 +403,7 @@
       "page": 12,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -589,7 +589,7 @@
       "page": 13,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -778,7 +778,7 @@
       "page": 15,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -965,7 +965,7 @@
       "page": 16,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -1149,7 +1149,7 @@
       "page": 17,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -1332,7 +1332,7 @@
       "page": 18,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -1515,7 +1515,7 @@
       "page": 20,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -1705,7 +1705,7 @@
       "page": 21,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -1895,7 +1895,7 @@
       "page": 22,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -2081,7 +2081,7 @@
       "page": 23,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -2270,7 +2270,7 @@
       "page": 25,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -2460,7 +2460,7 @@
       "page": 26,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           36.204745,
@@ -2650,7 +2650,7 @@
       "page": 27,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,
@@ -2836,7 +2836,7 @@
       "page": 28,
       "library": "Leaflet",
       "mapOptions": {
-        "legend": true,
+        "legend": false,
         "resetButton": false,
         "center": [
           37.785297,

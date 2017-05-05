@@ -8,7 +8,7 @@
           "blocks": [
             {
               "title": "Research Participant Information and Consent Form <i>(scroll down to review and agree to participate)</i></br></br>",
-              "ask": "<strong>Title of the Study</strong><br />Mapping People: Using MapStudy to Understand Interactive Maps and the Symbolization of People<br /><br /><strong>Principal Investigators</strong><br /><i>Robert E. Roth, PhD</i> <br />375 Science Hall<br />550 N. Park Street<br />Madison, WI  53706<br />Phone: 608-262-1453; Email: reroth@wisc.edu<br /><br /><i>Meghan Kelly</i><br />Email: mkelly22@wisc.edu<br /><br /><i>Nick Lally</i><br />Email: nlally@wisc.edu<br /><br /><strong>Description of Research</strong><br />You are invited to participate in a study aimed at improving interactive web maps. Specifically, the study investigates how people are represented in interactive maps.<br /><br /><strong>What will my participation involve?</strong><br />If you decide to participate in this research, you will review two different case studies that include interactive maps. Each interactive allows you to <i>Zoom, Pan, and Retreive.</i> With each case study, you will be given a task to complete. After completing each task, you will respond to a survey of questions related to the case study, task, and the interactive map. The survey will take approximately 30 minutes to complete. You will be compensated $3 for your participation upon completing the survey.<br /><br /><i>Zoom</i><br /><img src='img/Zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan</i><br /><img src='img/Pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve</i><br /><img src='img/Retrieve.gif' height='300px' width='280' align='middle'><br /><br /><strong>Are there any risks to me?</strong><br />Risk to participation is minimal. The case studies and interactive maps in this survey cover current news topics with no more detail than news outlets like the New York Times, for example. There are no foreseeable physical or mental risks to participation beyond those encountered in the normal course of everyday life.<br /><br /><strong>Are there any benefits to me?</strong><br />Your responses to the survey will be used to develop a better understanding of the design of interactive maps.<br /><br /><strong>How will my confidentiality be protected?</strong><br />No personally identifiable or sensitive information will be collected or maintained. Only group characteristics will be reported in publications of research findings.<br /><br /><strong>Whom should I contact if I have questions?</strong><br />You may ask any questions about the research at any time. If you have questions about the research after you leave today you should contact Robert E. Roth, PhD (PI) at 608-262-1453. If you are not satisfied with response of research team, have more questions, or want to talk with someone about your rights as a research participant, you should contact the Education Research and Social & Behavioral Science IRB Office at 608-263-2320. Your participation is completely voluntary and you can withdraw from the study at any time without compensation.<br /><br /><strong>If you do NOT agree to take part in this research study as outline above, please Exit this survey.</strong><br /><br /><strong>If you agree to take part in this research study as outlined above, please click 'Next' below. By selecting 'Next' you agree to the following statement:</strong> I understand my rights as a participant and agree to participate in this research Study<br /><br />"
+              "ask": "<strong>Title of the Study</strong><br />Mapping People: Using MapStudy to Understand Interactive Maps and the Symbolization of People<br /><br /><strong>Principal Investigators</strong><br /><i>Robert E. Roth, PhD</i> <br />375 Science Hall<br />550 N. Park Street<br />Madison, WI  53706<br />Phone: 608-262-1453; Email: reroth@wisc.edu<br /><br /><i>Meghan Kelly</i><br />Email: mkelly22@wisc.edu<br /><br /><i>Nick Lally</i><br />Email: nlally@wisc.edu<br /><br /><strong>Description of Research</strong><br />You are invited to participate in a study aimed at improving interactive web maps. Specifically, the study investigates how people are represented in interactive maps.<br /><br /><strong>What will my participation involve?</strong><br />If you decide to participate in this research, you will review two different case studies that include interactive maps. With each case study, you will be given a task to complete. After completing each task, you will respond to a survey of questions related to the case study, task, and the interactive map. The survey will take approximately 30 minutes to complete. You will be compensated $3 for your participation upon completing the survey.<br /><br /><strong>Are there any risks to me?</strong><br />Risk to participation is minimal. The case studies and interactive maps in this survey cover current news topics with no more detail than news outlets like the New York Times, for example. There are no foreseeable physical or mental risks to participation beyond those encountered in the normal course of everyday life.<br /><br /><strong>Are there any benefits to me?</strong><br />Your responses to the survey will be used to develop a better understanding of the design of interactive maps.<br /><br /><strong>How will my confidentiality be protected?</strong><br />No personally identifiable or sensitive information will be collected or maintained. Only group characteristics will be reported in publications of research findings.<br /><br /><strong>Whom should I contact if I have questions?</strong><br />You may ask any questions about the research at any time. If you have questions about the research after you leave today you should contact Robert E. Roth, PhD (PI) at 608-262-1453. If you are not satisfied with response of research team, have more questions, or want to talk with someone about your rights as a research participant, you should contact the Education Research and Social & Behavioral Science IRB Office at 608-263-2320. Your participation is completely voluntary and you can withdraw from the study at any time without compensation.<br /><br /><strong>If you do NOT agree to take part in this research study as outline above, please Exit this survey.</strong><br /><br /><strong>If you agree to take part in this research study as outlined above, please click 'Next' below. By selecting 'Next' you agree to the following statement:</strong> I understand my rights as a participant and agree to participate in this research Study<br /><br />"
             }
           ],
           "buttons": [
@@ -25,8 +25,14 @@
           "blocks": [
             {
               "title": "Overview, Eligibility, and Instructions <i>(scroll down to review and continue)</i>",
-              "ask": "<br /><strong>Thank you for agreeing to participate!</strong><br /><br />Maps are used on a daily basis at unprecedented levels. You may be familiar with mapping applications like Apple Maps, Google Maps, and MapQuest. You may also make use of web maps in social media like Facebook, Foursquare, Instagram, and Twitter. Further, you might have explored more complex interactive maps in popular news outlets like the New York Times and the Washington Post. The purpose of this study is to learn how we should create interactive maps that represent people.<br /><br /><strong>Instructions</strong><ul><li>In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them.</li></ul>You will be compensated <i>after</i> completing these three sections and an exit survey!<br /><br /><strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin.<br /><br />"
-            }
+              "ask": "<br /><strong>Thank you for agreeing to participate!</strong><br /><br />Maps are used on a daily basis at unprecedented levels. You may be familiar with mapping applications like Apple Maps, Google Maps, and MapQuest. You may also make use of web maps in social media like Facebook, Foursquare, Instagram, and Twitter. Further, you might have explored more complex interactive maps in popular news outlets like the New York Times and the Washington Post. The purpose of this study is to learn how we should create interactive maps that represent people.<br /><br /><strong>Instructions</strong><ul><li>In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them.</li></ul>You will be compensated <i>after</i> completing these three sections and an exit survey!<br /><br />"
+            },
+            {
+              "ask": "<strong>Interactive Maps</strong><br />Each interactive map allows you to <i>Zoom, Pan, and Retreive Pop Ups</i>. Learn how to zoom, pan, and use retreive pop ups on example maps below. <br /><br /><i>Zoom</i><br /><img src='img/Zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan </i><br /><img src='img/Pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve Pop Ups</i><br /><img src='img/Retrieve.gif' height='300px' width='280' align='middle'><br /><br />"
+              },
+            {
+              "ask": "<strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin."
+              }
           ],
           "buttons": [
             "next",
@@ -43,14 +49,12 @@
           "blocks": [
             {
               "title": "Oakland Case Study Introduction",
-              "ask": "In the past three years, a number of police killings in the United States have received widespread media attention, sparking national debates on law enforcement practices. The killing of unarmed black men in particular have given rise to massive protests and activist movements across the country. The killing of Michael Brown in Ferguson, Eric Garner in New York City, Walter Scott in South Carolina, and Freddie Gray in Baltimore, to name a few, all received sustained media attention, leading some journalists to begin investigating the extent of the issue. Statistics on police killings in the United States, however, are not recorded by the government. In response, media outlets like the Washington Post and the Guardian (United Kingdom) have began to compile statistics on police killings using public records, news reports, and crowdsourcing. The Guardian estimates that over 1000 people were killed each year by police in 2015 and 2016. James Comey, head of the FBI, said that it was 'embarrassing and ridiculous' that media sources had better information on this issue than the US Government. <br /><br /> California, the most populous state, leads the nation in killings by police. In Oakland, California, the 8th largest city in California, an estimated 104 people were killed by police between 2000 and 2017."
+              "ask": "In the past three years, a number of police killings in the United States have received widespread media attention, sparking national debates on law enforcement practices. The killing of unarmed black men in particular have given rise to massive protests and activist movements across the country. The killing of Michael Brown in Ferguson, Eric Garner in New York City, Walter Scott in South Carolina, and Freddie Gray in Baltimore, to name a few, all received sustained media attention, leading some journalists to begin investigating the extent of the issue. Statistics on police killings in the United States, however, are not recorded by the government. In response, media outlets like the Washington Post and the Guardian (United Kingdom) have began to compile statistics on police killings using public records, news reports, and crowdsourcing. The Guardian estimates that over 1000 people were killed each year by police in 2015 and 2016. James Comey, head of the FBI, said that it was 'embarrassing and ridiculous' that media sources had better information on this issue than the US Government. <br /><br /> California, the most populous state, leads the nation in killings by police. In Oakland, California, one of the largest cities in California, an estimated 104 people were killed by police between 2000 and 2017."
             }
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -67,9 +71,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -80,14 +82,13 @@
         {
           "blocks": [
             {
-              "title": "Part 1"
+              "title": "Part 1",
+              "ask": "In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer."
             }
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -98,14 +99,13 @@
         {
           "blocks": [
             {
-              "title": "Part 2"
+              "title": "Part 2",
+              "ask": "In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer."
             }
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -116,14 +116,13 @@
         {
           "blocks": [
             {
-              "title": "Part 3"
+              "title": "Part 3",
+              "ask": "In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them."
             }
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -140,9 +139,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -329,9 +326,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -514,9 +509,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -702,9 +695,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -890,9 +881,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -1081,9 +1070,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -1268,9 +1255,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -1453,9 +1438,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -1638,9 +1621,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -1827,9 +1808,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -2013,9 +1992,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -2198,9 +2175,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -2383,9 +2358,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -2572,9 +2545,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -2757,9 +2728,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -2942,9 +2911,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -3127,9 +3094,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -3148,25 +3113,25 @@
               "ask": "The words below describe different feelings and emotions. Please rank each word from 1 to 5 based on your current feelings and emotions after viewing the previous map. Rank each word based on the extent to which you feel the word right now."
             },
             {
-              "ask": "Interested",
+              "ask": "Interested (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3175,25 +3140,25 @@
               }
             },
             {
-              "ask": "Distressed",
+              "ask": "Distressed (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3202,25 +3167,25 @@
               }
             },
             {
-              "ask": "Excited",
+              "ask": "Excited (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3229,25 +3194,25 @@
               }
             },
             {
-              "ask": "Upset",
+              "ask": "Upset (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3256,25 +3221,25 @@
               }
             },
             {
-              "ask": "Strong",
+              "ask": "Strong (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3283,25 +3248,25 @@
               }
             },
             {
-              "ask": "Guilty",
+              "ask": "Guilty (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3310,25 +3275,25 @@
               }
             },
             {
-              "ask": "Scared",
+              "ask": "Scared (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3337,25 +3302,25 @@
               }
             },
             {
-              "ask": "Hostile",
+              "ask": "Hostile (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3364,25 +3329,25 @@
               }
             },
             {
-              "ask": "Enthusiastic",
+              "ask": "Enthusiastic (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3391,25 +3356,25 @@
               }
             },
             {
-              "ask": "Proud",
+              "ask": "Proud (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3418,25 +3383,25 @@
               }
             },
             {
-              "ask": "Irritable",
+              "ask": "Irritable (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3445,25 +3410,25 @@
               }
             },
             {
-              "ask": "Alert",
+              "ask": "Alert (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3472,25 +3437,25 @@
               }
             },
             {
-              "ask": "Ashamed",
+              "ask": "Ashamed (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3499,25 +3464,25 @@
               }
             },
             {
-              "ask": "Inspired",
+              "ask": "Inspired (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3526,25 +3491,52 @@
               }
             },
             {
-              "ask": "Nervous",
+              "ask": "Nervous (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+            { 
+              "ask": "Determined (1 = Slightly and 5 = Extremely)",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3553,25 +3545,25 @@
               }
             },
             {
-              "ask": "Determined",
+              "ask": "Attentive (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3580,25 +3572,25 @@
               }
             },
             {
-              "ask": "Attentive",
+              "ask": "Jittery (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4-Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3607,25 +3599,25 @@
               }
             },
             {
-              "ask": "Jittery",
+              "ask": "Active (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3634,52 +3626,25 @@
               }
             },
             {
-              "ask": "Active",
+              "ask": "Afraid (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
-                  }
-                ],
-                "items": [
-                  {}
-                ]
-              }
-            },
-            {
-              "ask": "Afraid",
-              "input": {
-                "required": false,
-                "type": "matrix",
-                "options": [
-                  {
-                    "text": "1–Very Slightly or Not at All\n"
-                  },
-                  {
-                    "text": "2–A Little"
-                  },
-                  {
-                    "text": "3–Moderately"
-                  },
-                  {
-                    "text": "4–Quite a Bit"
-                  },
-                  {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3690,9 +3655,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -3748,9 +3711,7 @@
 					],
 					"buttons": [
 						"next",
-						"back",
-						"save"
-					]
+						"back"					]
         }
       ]
     },
@@ -3793,7 +3754,7 @@
               "ask": "3. How useful were the following map features?"
             },
             {
-              "ask": "<i>Zoom</i>",
+              "ask": "<i>Zooming</i>",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -3820,7 +3781,7 @@
               }
             },
             {
-              "ask": "<i>Pan</i>",
+              "ask": "<i>Panning</i>",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -3957,9 +3918,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -3982,25 +3941,25 @@
               "ask": "The words below describe different feelings and emotions. Please rank each word from 1 to 5 based on your current feelings and emotions after viewing the previous map. Rank each word based on the extent to which you feel the word right now."
             },
             {
-              "ask": "Interested",
+              "ask": "Interested (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4009,25 +3968,25 @@
               }
             },
             {
-              "ask": "Distressed",
+              "ask": "Distressed (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4036,25 +3995,52 @@
               }
             },
             {
-              "ask": "Excited",
+              "ask": "Excited (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
+                  }
+                ],
+                "items": [
+                  {}
+                ]
+              }
+            },
+            { 
+              "ask": "Upset (1 = Slightly and 5 = Extremely)",
+              "input": {
+                "required": false,
+                "type": "matrix",
+                "options": [
+                  {
+                    "text": "1\n"
+                  },
+                  {
+                    "text": "2"
+                  },
+                  {
+                    "text": "3"
+                  },
+                  {
+                    "text": "4"
+                  },
+                  {
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4063,25 +4049,25 @@
               }
             },
             {
-              "ask": "Upset",
+              "ask": "Strong (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4090,25 +4076,25 @@
               }
             },
             {
-              "ask": "Strong",
+              "ask": "Guilty (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4117,25 +4103,25 @@
               }
             },
             {
-              "ask": "Guilty",
+              "ask": "Scared (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4144,25 +4130,25 @@
               }
             },
             {
-              "ask": "Scared",
+              "ask": "Hostile (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4171,25 +4157,25 @@
               }
             },
             {
-              "ask": "Hostile",
+              "ask": "Enthusiastic (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4198,25 +4184,25 @@
               }
             },
             {
-              "ask": "Enthusiastic",
+              "ask": "Proud (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4225,25 +4211,25 @@
               }
             },
             {
-              "ask": "Proud",
+              "ask": "Irritable (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4252,25 +4238,25 @@
               }
             },
             {
-              "ask": "Irritable",
+              "ask": "Alert (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4279,25 +4265,25 @@
               }
             },
             {
-              "ask": "Alert",
+              "ask": "Ashamed (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4306,25 +4292,25 @@
               }
             },
             {
-              "ask": "Ashamed",
+              "ask": "Inspired (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4333,25 +4319,25 @@
               }
             },
             {
-              "ask": "Inspired",
+              "ask": "Nervous (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4360,25 +4346,25 @@
               }
             },
             {
-              "ask": "Nervous",
+              "ask": "Determined (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4387,25 +4373,25 @@
               }
             },
             {
-              "ask": "Determined",
+              "ask": "Attentive (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4414,25 +4400,25 @@
               }
             },
             {
-              "ask": "Attentive",
+              "ask": "Jittery (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4-Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4441,25 +4427,25 @@
               }
             },
             {
-              "ask": "Jittery",
+              "ask": "Active (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4468,52 +4454,25 @@
               }
             },
             {
-              "ask": "Active",
+              "ask": "Afraid (1 = Slightly and 5 = Extremely)",
               "input": {
                 "required": false,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
-                  }
-                ],
-                "items": [
-                  {}
-                ]
-              }
-            },
-            {
-              "ask": "Afraid",
-              "input": {
-                "required": false,
-                "type": "matrix",
-                "options": [
-                  {
-                    "text": "1–Very Slightly or Not at All"
-                  },
-                  {
-                    "text": "2–A Little"
-                  },
-                  {
-                    "text": "3–Moderately"
-                  },
-                  {
-                    "text": "4–Quite a Bit"
-                  },
-                  {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -4524,9 +4483,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -4583,9 +4540,7 @@
           ],
 					"buttons": [
 						"next",
-						"back",
-						"save"
-					]
+						"back"					]
         }
       ]
     },
@@ -4628,7 +4583,7 @@
               "ask": "3. How useful were the following map features?"
             },
             {
-              "ask": "<i>Zoom</i>",
+              "ask": "<i>Zooming</i>",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -4655,7 +4610,7 @@
               }
             },
             {
-              "ask": "<i>Pan</i>",
+              "ask": "<i>Panning</i>",
               "input": {
                 "required": false,
                 "type": "matrix",
@@ -4792,9 +4747,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -4841,9 +4794,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -4879,9 +4830,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -4917,9 +4866,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -4955,9 +4902,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -5007,9 +4952,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -5059,9 +5002,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -5093,9 +5034,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -5127,9 +5066,7 @@
           ],
           "buttons": [
             "next",
-            "back",
-            "save"
-          ]
+            "back"          ]
         }
       ]
     },
@@ -5178,7 +5115,7 @@
         {
           "blocks": [
             {
-							"title": "Exit Survey Information (scroll to view all questions)",
+							"title": "Exit Survey (scroll to view all questions)",
 							"ask": "What is your age?",
 							"input": {
 								"required": false,
@@ -5373,8 +5310,8 @@
       {
         "blocks": [
           {
-            "title": "Exit Survey–Previous Knowledge",
-            "ask": "Please rate your <i>familiarity</i> or <i>knowledge</i> of the following topics:",
+            "title": "Exit Survey",
+            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics:",
             "input": {
               "type": "matrix",
               "items": [
@@ -5423,7 +5360,7 @@
             }
           },
           {
-            "ask": "Please rate your <i>familiarity</i> or <i>knowledge</i> of the following topics:",
+            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics:",
             "input": {
               "type": "matrix",
               "items": [
@@ -5473,8 +5410,8 @@
     {
       "blocks": [
         {
-          "title": "Exit Survey–Previous Interest",
-          "ask": "Please rate your <i>interest</i> in the following topics:",
+          "title": "Exit Survey",
+          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics:",
           "input": {
             "type": "matrix",
             "items": [
@@ -5523,7 +5460,7 @@
           }
         },
         {
-          "ask": "Please rate your <i>interest</i> in the following topics:",
+          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics:",
           "input": {
             "type": "matrix",
             "items": [
