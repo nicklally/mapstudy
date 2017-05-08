@@ -5524,7 +5524,7 @@
       "blocks": [
         {
           "title": "Exit Survey",
-          "ask": "Please rank the following:"
+          "ask": "Please rank the following: (scroll to view all questions)"
           },
         {
               "ask": "Should the US create new programs to combat <i>racial inequities</i>?",
@@ -5863,6 +5863,102 @@
             },
             {
               "ask": "<strong>Interactive Maps</strong><br />Each interactive map allows you to <i>Zoom, Pan, and Retreive Pop Ups</i>. Learn how to zoom, pan, and use retreive pop ups on example maps below. <br /><br /><i>Zoom</i><br /><img src='img/gifs/page12_zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan </i><br /><img src='img/gifs/page12_pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve Pop Ups</i><br /><img src='img/gifs/page12_retrieve.gif' height='300px' width='280' align='middle'><br /><br />"
+              },
+            {
+              "ask": "<strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin."
+              }
+          ],
+          "buttons": [
+            "next",
+            "back"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 57,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Overview, Eligibility, and Instructions <i>(scroll down to review and continue)</i>",
+              "ask": "<br /><strong>Thank you for agreeing to participate!</strong><br /><br />Maps are used on a daily basis at unprecedented levels. You may be familiar with mapping applications like Apple Maps, Google Maps, and MapQuest. You may also make use of web maps in social media like Facebook, Foursquare, Instagram, and Twitter. Further, you might have explored more complex interactive maps in popular news outlets like the New York Times and the Washington Post. The purpose of this study is to learn how we should create interactive maps that represent people.<br /><br /><strong>Instructions</strong><ul><li>In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them.</li></ul>You will be compensated <i>after</i> completing these three sections and an exit survey!<br /><br />"
+            },
+            {
+              "ask": "<strong>Interactive Maps</strong><br />Each interactive map allows you to <i>Zoom, Pan, and Retreive Pop Ups</i>. Learn how to zoom, pan, and use retreive pop ups on example maps below. <br /><br /><i>Zoom</i><br /><img src='img/gifs/page18_zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan </i><br /><img src='img/gifs/page18_pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve Pop Ups</i><br /><img src='img/gifs/page18_retrieve.gif' height='300px' width='280' align='middle'><br /><br />"
+              },
+            {
+              "ask": "<strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin."
+              }
+          ],
+          "buttons": [
+            "next",
+            "back"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 58,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Overview, Eligibility, and Instructions <i>(scroll down to review and continue)</i>",
+              "ask": "<br /><strong>Thank you for agreeing to participate!</strong><br /><br />Maps are used on a daily basis at unprecedented levels. You may be familiar with mapping applications like Apple Maps, Google Maps, and MapQuest. You may also make use of web maps in social media like Facebook, Foursquare, Instagram, and Twitter. Further, you might have explored more complex interactive maps in popular news outlets like the New York Times and the Washington Post. The purpose of this study is to learn how we should create interactive maps that represent people.<br /><br /><strong>Instructions</strong><ul><li>In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them.</li></ul>You will be compensated <i>after</i> completing these three sections and an exit survey!<br /><br />"
+            },
+            {
+              "ask": "<strong>Interactive Maps</strong><br />Each interactive map allows you to <i>Zoom, Pan, and Retreive Pop Ups</i>. Learn how to zoom, pan, and use retreive pop ups on example maps below. <br /><br /><i>Zoom</i><br /><img src='img/gifs/page16_zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan </i><br /><img src='img/gifs/page16_pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve Pop Ups</i><br /><img src='img/gifs/page16_retrieve.gif' height='300px' width='280' align='middle'><br /><br />"
+              },
+            {
+              "ask": "<strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin."
+              }
+          ],
+          "buttons": [
+            "next",
+            "back"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 59,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Overview, Eligibility, and Instructions <i>(scroll down to review and continue)</i>",
+              "ask": "<br /><strong>Thank you for agreeing to participate!</strong><br /><br />Maps are used on a daily basis at unprecedented levels. You may be familiar with mapping applications like Apple Maps, Google Maps, and MapQuest. You may also make use of web maps in social media like Facebook, Foursquare, Instagram, and Twitter. Further, you might have explored more complex interactive maps in popular news outlets like the New York Times and the Washington Post. The purpose of this study is to learn how we should create interactive maps that represent people.<br /><br /><strong>Instructions</strong><ul><li>In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them.</li></ul>You will be compensated <i>after</i> completing these three sections and an exit survey!<br /><br />"
+            },
+            {
+              "ask": "<strong>Interactive Maps</strong><br />Each interactive map allows you to <i>Zoom, Pan, and Retreive Pop Ups</i>. Learn how to zoom, pan, and use retreive pop ups on example maps below. <br /><br /><i>Zoom</i><br /><img src='img/gifs/page20_zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan </i><br /><img src='img/gifs/page20_pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve Pop Ups</i><br /><img src='img/gifs/page20_retrieve.gif' height='300px' width='280' align='middle'><br /><br />"
+              },
+            {
+              "ask": "<strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin."
+              }
+          ],
+          "buttons": [
+            "next",
+            "back"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 60,
+      "fullpage": true,
+      "sets": [
+        {
+          "blocks": [
+            {
+              "title": "Overview, Eligibility, and Instructions <i>(scroll down to review and continue)</i>",
+              "ask": "<br /><strong>Thank you for agreeing to participate!</strong><br /><br />Maps are used on a daily basis at unprecedented levels. You may be familiar with mapping applications like Apple Maps, Google Maps, and MapQuest. You may also make use of web maps in social media like Facebook, Foursquare, Instagram, and Twitter. Further, you might have explored more complex interactive maps in popular news outlets like the New York Times and the Washington Post. The purpose of this study is to learn how we should create interactive maps that represent people.<br /><br /><strong>Instructions</strong><ul><li>In <i>Part 1</i>, you will be presented with a case study. After you read the case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 2</i>, you will be presented with a second case study. After you read the second case study, you will be given an interactive map and a task. You will use the interactive map to accomplish the task and answer a series of related questions. Questions will be multiple choice, ranking, and short answer. </li><li>In <i>Part 3</i> will be given a series of interactive maps and will ask you to rank them.</li></ul>You will be compensated <i>after</i> completing these three sections and an exit survey!<br /><br />"
+            },
+            {
+              "ask": "<strong>Interactive Maps</strong><br />Each interactive map allows you to <i>Zoom, Pan, and Retreive Pop Ups</i>. Learn how to zoom, pan, and use retreive pop ups on example maps below. <br /><br /><i>Zoom</i><br /><img src='img/gifs/page22_zoom.gif' height='300px' width='280' align='middle'><br /><br /><i>Pan </i><br /><img src='img/gifs/page22_pan.gif' height='300px' width='280' align='middle'><br /><br /><i>Retrieve Pop Ups</i><br /><img src='img/gifs/page22_retrieve.gif' height='300px' width='280' align='middle'><br /><br />"
               },
             {
               "ask": "<strong>Eligibility</strong><br />Before beginning, please once review your eligibility for participating in the study. These restrictions greatly impact your responses.<br /><ul><li>You must be 18 years of age or older.</li><li>You must be fluent in English.</li><li>You must currently be living in the United States.</li><li>You must complete the survey on a non-mobile device, such as a laptop or desktop computer. Completing the experiment on a smartphone or small screen tablet will greatly impact your performance and skew results.</li></ul>If you have read the instructions and confirm that you are eligible, select 'Next' below to begin."
