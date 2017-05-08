@@ -435,10 +435,6 @@
           "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
-            "Name",
-            "Status",
-            "Cause",
-            "Actors",
             "Story"
           ],
           "renderOnLoad": true,
@@ -621,10 +617,6 @@
           "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
-            "Name",
-            "Status",
-            "Cause",
-            "Actors",
             "Story"
           ],
           "renderOnLoad": true,
@@ -811,10 +803,10 @@
           "expressedAttribute": "ID",
           "displayAttributes": [
             "Name",
+            "Age",
+            "Sex",
             "Status",
-            "Cause",
-            "Actors",
-            "Story"
+            "Cause"
           ],
           "renderOnLoad": true,
           "layerOptions": {
@@ -998,10 +990,10 @@
           "expressedAttribute": "ID",
           "displayAttributes": [
             "Name",
+            "Age",
+            "Sex",
             "Status",
-            "Cause",
-            "Actors",
-            "Story"
+            "Cause"
           ],
           "renderOnLoad": true,
           "techniques": [

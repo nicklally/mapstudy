@@ -3109,7 +3109,7 @@
         {
           "blocks": [
             {
-              "title": "Syria Survey Questions (scroll to view all questions)",
+              "title": "Aleppo Survey Questions (scroll to view all questions)",
               "ask": "The words below describe different feelings and emotions. Please rank each word from 1 to 5 based on your current feelings and emotions after viewing the previous map. Rank each word based on the extent to which you feel the word right now."
             },
             {
@@ -3666,7 +3666,7 @@
         {
           "blocks": [
             {
-              "title": "Syria Survey Questions"
+              "title": "Aleppo Survey Questions"
             },
             {
 							"ask": "1. Who was included in the map? Is there a particular person or group of people that stood out to you, and why? ",
@@ -3722,7 +3722,7 @@
         {
           "blocks": [
             {
-              "title": "Syria Survey Questions (scroll to view all questions)"
+              "title": "Aleppo Survey Questions (scroll to view all questions)"
             },
             {
               "ask": "1. What was the map about? ",
@@ -5317,7 +5317,7 @@
         "blocks": [
           {
             "title": "Exit Survey",
-            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics. (1 = Slightly Familiar and 5 = Extremely Familiar)",
+            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics. <br />(1 = Slightly Familiar and 5 = Extremely Familiar)",
             "input": {
               "type": "matrix",
               "items": [
@@ -5366,7 +5366,7 @@
             }
           },
           {
-            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics. (1 = Slightly Familiar and 5 = Extremely Familiar)",
+            "ask": "Please rate your <strong><i>familiarity</i></strong> or <strong><i>knowledge</i></strong> of the following topics. <br />(1 = Slightly Familiar and 5 = Extremely Familiar)",
             "input": {
               "type": "matrix",
               "items": [
@@ -5420,7 +5420,7 @@
       "blocks": [
         {
           "title": "Exit Survey",
-          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics. (1 = Slightly Interested and 5 = Extremely Interested)",
+          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics. <br />(1 = Slightly Interested and 5 = Extremely Interested)",
           "input": {
             "type": "matrix",
             "items": [
@@ -5469,7 +5469,7 @@
           }
         },
         {
-          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics. (1 = Slightly Interested and 5 = Extremely Interested)",
+          "ask": "Please rate your <strong><i>interest</i></strong> in the following topics. <br />(1 = Slightly Interested and 5 = Extremely Interested)",
           "input": {
             "type": "matrix",
             "items": [
