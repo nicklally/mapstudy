@@ -435,7 +435,7 @@
           "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
-            "Story"
+            "Description"
           ],
           "renderOnLoad": true,
           "layerOptions": {
@@ -617,7 +617,7 @@
           "source": "data/aleppoInd.geojson",
           "expressedAttribute": "ID",
           "displayAttributes": [
-            "Story"
+            "Description"
           ],
           "renderOnLoad": true,
           "layerOptions": {

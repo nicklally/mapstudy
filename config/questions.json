@@ -35,9 +35,7 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
-          ]
+            "next"          ]
         }
       ]
     },
@@ -49,12 +47,12 @@
           "blocks": [
             {
               "title": "Oakland Case Study Introduction",
-              "ask": "In the past three years, a number of police killings in the United States have received widespread media attention, sparking national debates on law enforcement practices. The killing of unarmed black men in particular have given rise to massive protests and activist movements across the country. The killing of Michael Brown in Ferguson, Eric Garner in New York City, Walter Scott in South Carolina, and Freddie Gray in Baltimore, to name a few, all received sustained media attention, leading some journalists to begin investigating the extent of the issue. Statistics on police killings in the United States, however, are not recorded by the government. In response, media outlets like the Washington Post and the Guardian (United Kingdom) have began to compile statistics on police killings using public records, news reports, and crowdsourcing. The Guardian estimates that over 1000 people were killed each year by police in 2015 and 2016. James Comey, head of the FBI, said that it was 'embarrassing and ridiculous' that media sources had better information on this issue than the US Government. <br /><br /> California, the most populous state, leads the nation in killings by police. In Oakland, California, one of the largest cities in California, an estimated 104 people were killed by police between 2000 and 2017."
+              "ask": "In the past three years, a number of police killings in the United States have received widespread media attention, sparking national debates on law enforcement practices. The killing of unarmed black men in particular have given rise to massive protests and activist movements across the country. The killing of Michael Brown in Ferguson, Eric Garner in New York City, Walter Scott in South Carolina, and Freddie Gray in Baltimore, to name a few, all received sustained media attention. Statistics on police killings in the United States, however, are not recorded by the government.<br /><br />In response, some journalists have begun investigating the extent of the issue. Media outlets like the Washington Post and the Guardian (United Kingdom) have began to compile statistics on police killings using public records, news reports, and crowdsourcing. The Guardian estimates that over 1000 people were killed each year by police in 2015 and 2016. James Comey, head of the FBI, said that it was 'embarrassing and ridiculous' that media sources had better information on this issue than the US Government. California, the most populous state, leads the nation in killings by police. In Oakland, California, one of the largest cities in California, an estimated 104 people were killed by police between 2000 and 2017."
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+            ]
         }
       ]
     },
@@ -70,8 +68,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                     ]
         }
       ]
     },
@@ -87,8 +85,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -104,8 +101,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -121,8 +117,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -138,8 +133,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -163,7 +157,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -191,7 +185,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -218,7 +212,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -245,7 +239,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -272,7 +266,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -299,7 +293,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -325,8 +319,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -346,7 +339,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -374,7 +367,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -401,7 +394,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -428,7 +421,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -455,7 +448,7 @@
             { 
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -482,7 +475,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -508,8 +501,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -532,7 +524,7 @@
               },
             {
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -560,7 +552,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -587,7 +579,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -614,7 +606,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -641,7 +633,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -668,7 +660,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -694,8 +686,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"      ]
         }
       ]
     },
@@ -718,7 +709,7 @@
               },
             {
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -746,7 +737,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -773,7 +764,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -800,7 +791,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -827,7 +818,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -854,7 +845,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -880,8 +871,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"        ]
         }
       ]
     },
@@ -907,7 +897,7 @@
               },
             {
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -935,7 +925,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -962,7 +952,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -989,7 +979,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1016,7 +1006,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1043,7 +1033,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1069,8 +1059,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"       ]
         }
       ]
     },
@@ -1092,7 +1081,7 @@
               },
             {
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -1120,7 +1109,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1147,7 +1136,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1174,7 +1163,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1201,7 +1190,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1228,7 +1217,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1254,8 +1243,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"         ]
         }
       ]
     },
@@ -1275,7 +1263,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -1303,7 +1291,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1330,7 +1318,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1357,7 +1345,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1384,7 +1372,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1411,7 +1399,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1437,8 +1425,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"         ]
         }
       ]
     },
@@ -1458,7 +1445,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -1486,7 +1473,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1513,7 +1500,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1540,7 +1527,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1567,7 +1554,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1594,7 +1581,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1620,8 +1607,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"       ]
         }
       ]
     },
@@ -1645,7 +1631,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -1673,7 +1659,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1700,7 +1686,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1727,7 +1713,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1754,7 +1740,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1781,7 +1767,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1807,8 +1793,7 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"      ]
         }
       ]
     },
@@ -1829,7 +1814,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -1857,7 +1842,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1884,7 +1869,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1911,7 +1896,7 @@
             { 
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1938,7 +1923,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1965,7 +1950,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -1991,8 +1976,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -2012,7 +1997,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -2040,7 +2025,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2067,7 +2052,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2094,7 +2079,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2121,7 +2106,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2148,7 +2133,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2174,8 +2159,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -2195,7 +2180,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -2223,7 +2208,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2250,7 +2235,7 @@
             { 
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2277,7 +2262,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2304,7 +2289,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2331,7 +2316,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2357,8 +2342,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -2382,7 +2367,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -2410,7 +2395,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2437,7 +2422,7 @@
             { 
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2464,7 +2449,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2491,7 +2476,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2518,7 +2503,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2544,8 +2529,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -2565,7 +2550,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -2593,7 +2578,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2620,7 +2605,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2647,7 +2632,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2674,7 +2659,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2701,7 +2686,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2727,8 +2712,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -2748,7 +2733,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -2776,7 +2761,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2803,7 +2788,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2830,7 +2815,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2857,7 +2842,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2884,7 +2869,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2910,8 +2895,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -2931,7 +2916,7 @@
             {
               "ask": "1. Using the map legend above, the five potential sites, and the casualty distribution provided in the interactive map, determine which location would be best suited for the new center.<br /><br /> ",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -2959,7 +2944,7 @@
             {
               "ask": "Site 1 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -2986,7 +2971,7 @@
             {
               "ask": "Site 2 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3013,7 +2998,7 @@
             {
               "ask": "Site 3 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3040,7 +3025,7 @@
             {
               "ask": "Site 4 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3067,7 +3052,7 @@
             {
               "ask": "Site 5 (1 = Least Suitable and 5 = Most Suitable)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3093,8 +3078,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -3115,7 +3100,7 @@
             {
               "ask": "Interested (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3142,7 +3127,7 @@
             {
               "ask": "Distressed (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3169,7 +3154,7 @@
             {
               "ask": "Excited (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3196,7 +3181,7 @@
             {
               "ask": "Upset (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3223,7 +3208,7 @@
             {
               "ask": "Strong (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3250,7 +3235,7 @@
             {
               "ask": "Guilty (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3277,7 +3262,7 @@
             {
               "ask": "Scared (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3304,7 +3289,7 @@
             {
               "ask": "Hostile (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3331,7 +3316,7 @@
             {
               "ask": "Enthusiastic (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3358,7 +3343,7 @@
             {
               "ask": "Proud (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3385,7 +3370,7 @@
             {
               "ask": "Irritable (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3412,7 +3397,7 @@
             {
               "ask": "Alert (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3439,7 +3424,7 @@
             {
               "ask": "Ashamed (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3466,7 +3451,7 @@
             {
               "ask": "Inspired (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3493,7 +3478,7 @@
             {
               "ask": "Nervous (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3520,7 +3505,7 @@
             { 
               "ask": "Determined (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3547,7 +3532,7 @@
             {
               "ask": "Attentive (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3574,7 +3559,7 @@
             {
               "ask": "Jittery (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3601,7 +3586,7 @@
             {
               "ask": "Active (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3628,7 +3613,7 @@
             {
               "ask": "Afraid (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3654,8 +3639,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -3671,7 +3656,7 @@
             {
 							"ask": "1. Who was included in the map? Is there a particular person or group of people that stood out to you, and why? ",
 							"input": {
-								"required": false,
+								"required": true,
 								"type": "paragraph",
 								"options": [
 
@@ -3685,7 +3670,7 @@
             {
               "ask": "2. How do you feel about the people in the map? Did your emotional state change while looking and interacting with the map? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -3698,7 +3683,7 @@
             {
               "ask": "3. Why were the people in the map relatable or not relatable? How could the map be improved to make the people in the map more relatable? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -3710,8 +3695,8 @@
             }
 					],
 					"buttons": [
-						"next",
-						"back"					]
+						"next"
+											]
         }
       ]
     },
@@ -3727,7 +3712,7 @@
             {
               "ask": "1. What was the map about? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -3740,7 +3725,7 @@
             {
               "ask": "2. You were asked to select the most suitable site for a UNHCR emergency relief center. How did you decide on a site? Describe your decision making process.",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -3756,23 +3741,23 @@
             {
               "ask": "<i>Zooming</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
-                    "text": "1–Very Slightly or Not at All\n"
+                    "text": "1\n"
                   },
                   {
-                    "text": "2–A Little"
+                    "text": "2"
                   },
                   {
-                    "text": "3–Moderately"
+                    "text": "3"
                   },
                   {
-                    "text": "4–Quite a Bit"
+                    "text": "4"
                   },
                   {
-                    "text": "5–Extremely"
+                    "text": "5"
                   }
                 ],
                 "items": [
@@ -3783,7 +3768,7 @@
             {
               "ask": "<i>Panning</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3810,7 +3795,7 @@
             {
               "ask": "<i>Pop ups</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3837,7 +3822,7 @@
             {
               "ask": "<i>Symbols</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3864,7 +3849,7 @@
             {
               "ask": "<i>Legend</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3891,7 +3876,7 @@
             {
               "ask": "<i>Base map</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3917,8 +3902,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -3943,7 +3928,7 @@
             {
               "ask": "Interested (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3970,7 +3955,7 @@
             {
               "ask": "Distressed (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -3997,7 +3982,7 @@
             {
               "ask": "Excited (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4024,7 +4009,7 @@
             { 
               "ask": "Upset (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4051,7 +4036,7 @@
             {
               "ask": "Strong (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4078,7 +4063,7 @@
             {
               "ask": "Guilty (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4105,7 +4090,7 @@
             {
               "ask": "Scared (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4132,7 +4117,7 @@
             {
               "ask": "Hostile (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4159,7 +4144,7 @@
             {
               "ask": "Enthusiastic (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4186,7 +4171,7 @@
             {
               "ask": "Proud (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4213,7 +4198,7 @@
             {
               "ask": "Irritable (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4240,7 +4225,7 @@
             {
               "ask": "Alert (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4267,7 +4252,7 @@
             {
               "ask": "Ashamed (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4294,7 +4279,7 @@
             {
               "ask": "Inspired (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4321,7 +4306,7 @@
             {
               "ask": "Nervous (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4348,7 +4333,7 @@
             {
               "ask": "Determined (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4375,7 +4360,7 @@
             {
               "ask": "Attentive (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4402,7 +4387,7 @@
             {
               "ask": "Jittery (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4429,7 +4414,7 @@
             {
               "ask": "Active (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4456,7 +4441,7 @@
             {
               "ask": "Afraid (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4482,8 +4467,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4499,7 +4484,7 @@
             {
               "ask": "1. Who was included in the map? Is there a particular person or group of people that stood out to you, and why? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -4513,7 +4498,7 @@
             {
               "ask": "2. How do you feel about the people in the map? Did your emotional state change while looking and interacting with the map? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -4527,7 +4512,7 @@
                         {
               "ask": "3. Why were the people in the map relatable or not relatable? How could the map be improved to make the people in the map more relatable? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -4539,8 +4524,8 @@
             }
           ],
 					"buttons": [
-						"next",
-						"back"					]
+						"next"
+											]
         }
       ]
     },
@@ -4556,7 +4541,7 @@
             {
               "ask": "1. What was the map about? ",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -4569,7 +4554,7 @@
             {
               "ask": "2. You were asked to select the most suitable site for a ACLU police oversight center. How did you decide on a site? Describe your decision making process.",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "paragraph",
                 "options": [
 
@@ -4585,7 +4570,7 @@
             {
               "ask": "<i>Zooming</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4612,7 +4597,7 @@
             {
               "ask": "<i>Panning</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4639,7 +4624,7 @@
             {
               "ask": "<i>Pop ups</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4666,7 +4651,7 @@
             {
               "ask": "<i>Symbols</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4693,7 +4678,7 @@
             {
               "ask": "<i>Legend</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4720,7 +4705,7 @@
             {
               "ask": "<i>Base map</i> (1 = Slightly and 5 = Extremely)",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -4746,8 +4731,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4769,7 +4754,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -4793,8 +4778,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4808,7 +4793,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -4829,8 +4814,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4844,7 +4829,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -4865,8 +4850,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4880,7 +4865,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -4901,8 +4886,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4916,7 +4901,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -4937,8 +4922,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4952,7 +4937,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -4973,8 +4958,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -4988,7 +4973,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>preference</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -5009,8 +4994,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -5024,7 +5009,7 @@
               "title": "Map Preference Survey",
               "ask": "Rank the following maps based on <strong><i>relatability</i></strong>. Drag each block to reorder.<br />",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "rank",
                 "items": [
                   {
@@ -5045,8 +5030,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -5060,7 +5045,7 @@
               "title": "Map Preference Survey",
               "ask": "Which base map do you prefer?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "radios",
                 "options": [
                   {
@@ -5077,8 +5062,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -5092,7 +5077,7 @@
               "title": "Map Preference Survey",
               "ask": "Which <strong><i>pop up layout</i></strong> do you prefer?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "radios",
                 "options": [
                   {
@@ -5109,8 +5094,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -5124,14 +5109,14 @@
 							"title": "Exit Survey (scroll to view all questions)",
 							"ask": "What is your age?",
 							"input": {
-								"required": false,
+								"required": true,
 								"type": "text"
 							}
 						},
 						{
 							"ask": "What is your gender identity?",
 							"input": {
-								"required": false,
+								"required": true,
 								"autoadvance": false,
 								"type": "radios",
 								"options": [
@@ -5150,7 +5135,7 @@
             {
               "ask": "What is the highest degree or level of school you have completed?",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -5187,7 +5172,7 @@
 						{
 							"ask": "Is English your first language?",
 							"input": {
-								"required": false,
+								"required": true,
 								"autoadvance": false,
 								"type": "radios",
 								"options": [
@@ -5203,7 +5188,7 @@
 						{
 							"ask": "Are you fluent in English?",
 							"input": {
-								"required": false,
+								"required": true,
 								"autoadvance": false,
 								"type": "radios",
 								"options": [
@@ -5219,7 +5204,7 @@
             {
               "ask": "Do you currently live in the United States?",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -5235,7 +5220,7 @@
             {
               "ask": "Do you currently live in California?",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -5251,7 +5236,7 @@
             {
               "ask": "Do you have corrected vision?",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -5267,7 +5252,7 @@
             {
               "ask": "Do you have color vision impairment?",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -5286,7 +5271,7 @@
             {
               "ask": "Did you complete this survey on a laptop or desktop computer?",
               "input": {
-                "required": false,
+                "required": true,
                 "autoadvance": false,
                 "type": "radios",
                 "options": [
@@ -5304,8 +5289,8 @@
             }
           ],
           "buttons": [
-            "next",
-            "back"          ]
+            "next"
+                      ]
         }
       ]
     },
@@ -5407,8 +5392,8 @@
           }
         ],
         "buttons": [
-          "next",
-          "back"        ]
+          "next"
+                  ]
       }
     ]
   },
@@ -5510,8 +5495,8 @@
         }
       ],
       "buttons": [
-          "next",
-          "back"
+          "next"
+          
       ]
     }
   ]
@@ -5529,7 +5514,7 @@
         {
               "ask": "Should the US create new programs to combat <i>racial inequities</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5556,7 +5541,7 @@
         {
               "ask": "Should the US decrease funding for existing programs that combat <i>racial inequities</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5583,7 +5568,7 @@
         {
               "ask": "Should the US create new social programs for <i>incoming immigrants</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5610,7 +5595,7 @@
         {
               "ask": "Should the US decrease funding for existing social programs that help <i>incoming immigrants</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5637,7 +5622,7 @@
         {
               "ask": "Should the US create new programs for <i>national security and military</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5664,7 +5649,7 @@
         {
               "ask": "Should the US decrease funding for existing <i>national security and military</i> programs?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5691,7 +5676,7 @@
         {
               "ask": "Should the US create new programs for <i>social welfare</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5718,7 +5703,7 @@
         {
               "ask": "Should the US decrease funding for existing <i>social welfare</i> programs?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5745,7 +5730,7 @@
         {
               "ask": "Should the US create new programs for <i>environmental protection</i>?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5772,7 +5757,7 @@
         {
               "ask": "Should the US decrease funding for <i>environmental protection</i> programs?",
               "input": {
-                "required": false,
+                "required": true,
                 "type": "matrix",
                 "options": [
                   {
@@ -5798,7 +5783,7 @@
         }
       ],
       "buttons": [
-        "back",
+        "next",
         "submit"
       ]
     }
@@ -5845,8 +5830,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -5869,8 +5854,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -5893,8 +5878,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -5917,8 +5902,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -5941,8 +5926,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -5965,8 +5950,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -5989,8 +5974,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
@@ -6013,8 +5998,8 @@
               }
           ],
           "buttons": [
-            "next",
-            "back"
+            "next"
+            
           ]
         }
       ]
